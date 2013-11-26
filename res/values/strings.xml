@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Body</string>
+    <string name="search_hint">Search Body</string>
+    <string name="welcome_title">Google Body</string>
+    <string name="welcome_text">Google Body is a detailed 3D model of the human body. You can view different anatomical layers, zoom in, and navigate to parts that interest you. Click to identify anatomy, or search for muscles, organs, bones and more.</string>
+    <string name="welcome_terms">Review the <a href="http://m.google.com/toscountry">mobile terms of service</a>.</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula_refuse">Decline</string>
+</resources>

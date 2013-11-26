@@ -1,0 +1,831 @@
+{
+   "draw_groups": [ {
+      "attribs": "bin/f_skeleton/blinn9_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Lateral_Cuneiform",
+         "range": [ 0, 1308 ]
+      }, {
+         "geometry": "R_Intermediate_Cuneiform",
+         "range": [ 1308, 984 ]
+      }, {
+         "geometry": "R_F_Distal_Phalanx_2",
+         "range": [ 2292, 570 ]
+      }, {
+         "geometry": "R_F_Distal_Phalanx_4",
+         "range": [ 2862, 498 ]
+      }, {
+         "geometry": "R_F_Distal_Phalanx_3",
+         "range": [ 3360, 612 ]
+      }, {
+         "geometry": "R_F_Distal_Phalanx_5",
+         "range": [ 3972, 546 ]
+      }, {
+         "geometry": "R_F_Middle_Phalanx_5",
+         "range": [ 4518, 354 ]
+      }, {
+         "geometry": "R_F_Middle_Phalanx_4",
+         "range": [ 4872, 498 ]
+      }, {
+         "geometry": "R_F_Middle_Phalanx_3",
+         "range": [ 5370, 528 ]
+      }, {
+         "geometry": "R_F_Middle_Phalanx_2",
+         "range": [ 5898, 540 ]
+      }, {
+         "geometry": "R_F_Proximal_Phalanx_4",
+         "range": [ 6438, 948 ]
+      }, {
+         "geometry": "R_F_Proximal_Phalanx_3",
+         "range": [ 7386, 882 ]
+      }, {
+         "geometry": "R_F_Proximal_Phalanx_2",
+         "range": [ 8268, 840 ]
+      }, {
+         "geometry": "R_F_Metatarsal_1",
+         "range": [ 9108, 1416 ]
+      }, {
+         "geometry": "R_F_Distal_Phalanx_1",
+         "range": [ 10524, 762 ]
+      }, {
+         "geometry": "R_F_Proximal_Phalanx_1",
+         "range": [ 11286, 672 ]
+      }, {
+         "geometry": "R_F_Proximal_Phalanx_5",
+         "range": [ 11958, 780 ]
+      }, {
+         "geometry": "R_F_Metatarsal_2",
+         "range": [ 12738, 1332 ]
+      }, {
+         "geometry": "R_F_Metatarsal_3",
+         "range": [ 14070, 1296 ]
+      }, {
+         "geometry": "R_F_Metatarsal_4",
+         "range": [ 15366, 1422 ]
+      }, {
+         "geometry": "R_F_Metatarsal_5",
+         "range": [ 16788, 912 ]
+      }, {
+         "geometry": "R_Medial_Cuneiform",
+         "range": [ 17700, 1380 ]
+      }, {
+         "geometry": "R_Cuboid",
+         "range": [ 19080, 1278 ]
+      }, {
+         "geometry": "R_Navicular",
+         "range": [ 20358, 1536 ]
+      }, {
+         "geometry": "R_Talus",
+         "range": [ 21894, 2214 ]
+      }, {
+         "geometry": "R_Calcaneus",
+         "range": [ 24108, 2646 ]
+      }, {
+         "geometry": "L_Lateral_Cuneiform",
+         "range": [ 26754, 1308 ]
+      }, {
+         "geometry": "L_Intermediate_Cuneiform",
+         "range": [ 28062, 984 ]
+      }, {
+         "geometry": "L_F_Distal_Phalanx_2",
+         "range": [ 29046, 570 ]
+      }, {
+         "geometry": "L_F_Distal_Phalanx_4",
+         "range": [ 29616, 498 ]
+      }, {
+         "geometry": "L_F_Distal_Phalanx_3",
+         "range": [ 30114, 612 ]
+      }, {
+         "geometry": "L_F_Distal_Phalanx_5",
+         "range": [ 30726, 546 ]
+      }, {
+         "geometry": "L_F_Middle_Phalanx_5",
+         "range": [ 31272, 354 ]
+      }, {
+         "geometry": "L_F_Middle_Phalanx_4",
+         "range": [ 31626, 498 ]
+      }, {
+         "geometry": "L_F_Middle_Phalanx_3",
+         "range": [ 32124, 528 ]
+      }, {
+         "geometry": "L_F_Middle_Phalanx_2",
+         "range": [ 32652, 540 ]
+      }, {
+         "geometry": "L_F_Proximal_Phalanx_4",
+         "range": [ 33192, 948 ]
+      }, {
+         "geometry": "L_F_Proximal_Phalanx_3",
+         "range": [ 34140, 882 ]
+      }, {
+         "geometry": "L_F_Proximal_Phalanx_2",
+         "range": [ 35022, 840 ]
+      }, {
+         "geometry": "L_F_Metatarsal_1",
+         "range": [ 35862, 1416 ]
+      }, {
+         "geometry": "L_F_Distal_Phalanx_1",
+         "range": [ 37278, 762 ]
+      }, {
+         "geometry": "L_F_Proximal_Phalanx_1",
+         "range": [ 38040, 672 ]
+      }, {
+         "geometry": "L_F_Proximal_Phalanx_5",
+         "range": [ 38712, 780 ]
+      }, {
+         "geometry": "L_F_Metatarsal_2",
+         "range": [ 39492, 1332 ]
+      }, {
+         "geometry": "L_F_Metatarsal_3",
+         "range": [ 40824, 1296 ]
+      }, {
+         "geometry": "L_F_Metatarsal_4",
+         "range": [ 42120, 1422 ]
+      }, {
+         "geometry": "L_F_Metatarsal_5",
+         "range": [ 43542, 912 ]
+      }, {
+         "geometry": "L_Medial_Cuneiform",
+         "range": [ 44454, 1380 ]
+      }, {
+         "geometry": "L_Cuboid",
+         "range": [ 45834, 1278 ]
+      }, {
+         "geometry": "L_Navicular",
+         "range": [ 47112, 1536 ]
+      }, {
+         "geometry": "L_Talus",
+         "range": [ 48648, 2214 ]
+      }, {
+         "geometry": "L_Calcaneus",
+         "range": [ 50862, 2646 ]
+      }, {
+         "geometry": "R_H_Distal_Phalanges_5",
+         "range": [ 53508, 690 ]
+      }, {
+         "geometry": "R_H_Middle_Phalanges_5",
+         "range": [ 54198, 942 ]
+      }, {
+         "geometry": "R_H_Proximal_Phalanges_5",
+         "range": [ 55140, 1206 ]
+      }, {
+         "geometry": "R_H_Metacarpal_4",
+         "range": [ 56346, 1560 ]
+      }, {
+         "geometry": "R_H_Metacarpal_5",
+         "range": [ 57906, 1176 ]
+      }, {
+         "geometry": "R_H_Distal_Phalanges_3",
+         "range": [ 59082, 768 ]
+      }, {
+         "geometry": "R_H_Distal_Phalanges_4",
+         "range": [ 59850, 576 ]
+      }, {
+         "geometry": "R_H_Middle_Phalanges_3",
+         "range": [ 60426, 924 ]
+      }, {
+         "geometry": "R_H_Middle_Phalanges_4",
+         "range": [ 61350, 1062 ]
+      }, {
+         "geometry": "R_H_Proximal_Phalanges_1",
+         "range": [ 62412, 1212 ]
+      }, {
+         "geometry": "R_H_Proximal_Phalanges_2",
+         "range": [ 63624, 1014 ]
+      }, {
+         "geometry": "R_H_Proximal_Phalanges_3",
+         "range": [ 64638, 1338 ]
+      }, {
+         "geometry": "R_H_Proximal_Phalanges_4",
+         "range": [ 65976, 1344 ]
+      }, {
+         "geometry": "R_H_Metacarpal_1",
+         "range": [ 67320, 1326 ]
+      }, {
+         "geometry": "R_H_Metacarpal_2",
+         "range": [ 68646, 2148 ]
+      }, {
+         "geometry": "R_H_Metacarpal_3",
+         "range": [ 70794, 1848 ]
+      }, {
+         "geometry": "R_H_Distal_Phalanges_1",
+         "range": [ 72642, 1566 ]
+      }, {
+         "geometry": "R_H_Distal_Phalanges_2",
+         "range": [ 74208, 660 ]
+      }, {
+         "geometry": "R_H_Middle_Phalanges_2",
+         "range": [ 74868, 750 ]
+      }, {
+         "geometry": "R_Capitale",
+         "range": [ 75618, 1536 ]
+      }, {
+         "geometry": "R_Lunate",
+         "range": [ 77154, 1032 ]
+      }, {
+         "geometry": "R_Pisiform",
+         "range": [ 78186, 546 ]
+      }, {
+         "geometry": "R_Scaphoid",
+         "range": [ 78732, 1122 ]
+      }, {
+         "geometry": "R_Trapezium",
+         "range": [ 79854, 1128 ]
+      }, {
+         "geometry": "R_Triquetrum",
+         "range": [ 80982, 816 ]
+      }, {
+         "geometry": "R_Hamate",
+         "range": [ 81798, 1932 ]
+      }, {
+         "geometry": "R_Trapezoid",
+         "range": [ 83730, 1224 ]
+      }, {
+         "geometry": "L_H_Distal_Phalanges_5",
+         "range": [ 84954, 690 ]
+      }, {
+         "geometry": "L_H_Middle_Phalanges_5",
+         "range": [ 85644, 942 ]
+      }, {
+         "geometry": "L_H_Proximal_Phalanges_5",
+         "range": [ 86586, 1206 ]
+      }, {
+         "geometry": "L_H_Metacarpal_4",
+         "range": [ 87792, 1560 ]
+      }, {
+         "geometry": "R_H_Metacarpal_6",
+         "range": [ 89352, 1176 ]
+      }, {
+         "geometry": "L_H_Distal_Phalanges_3",
+         "range": [ 90528, 768 ]
+      }, {
+         "geometry": "L_H_Distal_Phalanges_4",
+         "range": [ 91296, 576 ]
+      }, {
+         "geometry": "L_H_Middle_Phalanges_3",
+         "range": [ 91872, 924 ]
+      }, {
+         "geometry": "L_H_Middle_Phalanges_4",
+         "range": [ 92796, 1062 ]
+      }, {
+         "geometry": "L_H_Proximal_Phalanges_1",
+         "range": [ 93858, 1212 ]
+      }, {
+         "geometry": "L_H_Proximal_Phalanges_2",
+         "range": [ 95070, 1014 ]
+      }, {
+         "geometry": "L_H_Proximal_Phalanges_3",
+         "range": [ 96084, 1338 ]
+      }, {
+         "geometry": "L_H_Proximal_Phalanges_4",
+         "range": [ 97422, 1344 ]
+      }, {
+         "geometry": "L_H_Metacarpal_1",
+         "range": [ 98766, 1326 ]
+      }, {
+         "geometry": "L_H_Metacarpal_2",
+         "range": [ 100092, 2148 ]
+      }, {
+         "geometry": "L_H_Metacarpal_3",
+         "range": [ 102240, 1848 ]
+      }, {
+         "geometry": "L_H_Distal_Phalanges_1",
+         "range": [ 104088, 1566 ]
+      }, {
+         "geometry": "L_H_Distal_Phalanges_2",
+         "range": [ 105654, 660 ]
+      }, {
+         "geometry": "L_H_Middle_Phalanges_2",
+         "range": [ 106314, 750 ]
+      }, {
+         "geometry": "L_Capitale",
+         "range": [ 107064, 1536 ]
+      }, {
+         "geometry": "L_Lunate",
+         "range": [ 108600, 1032 ]
+      }, {
+         "geometry": "L_Pisiform",
+         "range": [ 109632, 546 ]
+      }, {
+         "geometry": "L_Scaphoid",
+         "range": [ 110178, 1122 ]
+      }, {
+         "geometry": "L_Trapezium",
+         "range": [ 111300, 1128 ]
+      }, {
+         "geometry": "L_Triquetrum",
+         "range": [ 112428, 816 ]
+      }, {
+         "geometry": "L_Hamate",
+         "range": [ 113244, 1932 ]
+      }, {
+         "geometry": "L_Trapezoid",
+         "range": [ 115176, 1224 ]
+      } ],
+      "indices": "bin/f_skeleton/blinn9_indices.utf8",
+      "material": "blinn9",
+      "numIndices": 116400,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/skeleton_feet.jpg"
+   }, {
+      "attribs": "bin/f_skeleton/blinn11_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Costal_Cartilage_1",
+         "range": [ 0, 1404 ]
+      }, {
+         "geometry": "R_Costal_Cartilage_2",
+         "range": [ 1404, 720 ]
+      }, {
+         "geometry": "R_Costal_Cartilage_3",
+         "range": [ 2124, 708 ]
+      }, {
+         "geometry": "R_Costal_Cartilage_4",
+         "range": [ 2832, 540 ]
+      }, {
+         "geometry": "R_Costal_Cartilage_5",
+         "range": [ 3372, 648 ]
+      }, {
+         "geometry": "R_Costal_Cartilage_6",
+         "range": [ 4020, 4290 ]
+      }, {
+         "geometry": "R_Rib_04",
+         "range": [ 8310, 2496 ]
+      }, {
+         "geometry": "R_Rib_05",
+         "range": [ 10806, 2760 ]
+      }, {
+         "geometry": "R_Rib_12",
+         "range": [ 13566, 858 ]
+      }, {
+         "geometry": "R_Rib_11",
+         "range": [ 14424, 1164 ]
+      }, {
+         "geometry": "R_Rib_10",
+         "range": [ 15588, 1992 ]
+      }, {
+         "geometry": "R_Rib_09",
+         "range": [ 17580, 1974 ]
+      }, {
+         "geometry": "R_Rib_08",
+         "range": [ 19554, 2010 ]
+      }, {
+         "geometry": "R_Rib_07",
+         "range": [ 21564, 2268 ]
+      }, {
+         "geometry": "R_Rib_06",
+         "range": [ 23832, 1812 ]
+      }, {
+         "geometry": "R_Rib_03",
+         "range": [ 25644, 1548 ]
+      }, {
+         "geometry": "R_Rib_01",
+         "range": [ 27192, 1182 ]
+      }, {
+         "geometry": "R_Rib_02",
+         "range": [ 28374, 1644 ]
+      }, {
+         "geometry": "L_Costal_Cartilage_1",
+         "range": [ 30018, 1404 ]
+      }, {
+         "geometry": "L_Costal_Cartilage_2",
+         "range": [ 31422, 720 ]
+      }, {
+         "geometry": "L_Costal_Cartilage_3",
+         "range": [ 32142, 708 ]
+      }, {
+         "geometry": "L_Costal_Cartilage_4",
+         "range": [ 32850, 540 ]
+      }, {
+         "geometry": "L_Costal_Cartilage_5",
+         "range": [ 33390, 648 ]
+      }, {
+         "geometry": "L_Costal_Cartilage_6",
+         "range": [ 34038, 4290 ]
+      }, {
+         "geometry": "L_Rib_04",
+         "range": [ 38328, 2496 ]
+      }, {
+         "geometry": "L_Rib_05",
+         "range": [ 40824, 2760 ]
+      }, {
+         "geometry": "L_Rib_12",
+         "range": [ 43584, 858 ]
+      }, {
+         "geometry": "L_Rib_11",
+         "range": [ 44442, 1164 ]
+      }, {
+         "geometry": "L_Rib_10",
+         "range": [ 45606, 1992 ]
+      }, {
+         "geometry": "L_Rib_09",
+         "range": [ 47598, 1974 ]
+      }, {
+         "geometry": "L_Rib_08",
+         "range": [ 49572, 2010 ]
+      }, {
+         "geometry": "L_Rib_07",
+         "range": [ 51582, 2268 ]
+      }, {
+         "geometry": "L_Rib_06",
+         "range": [ 53850, 1812 ]
+      }, {
+         "geometry": "L_Rib_03",
+         "range": [ 55662, 1548 ]
+      }, {
+         "geometry": "L_Rib_01",
+         "range": [ 57210, 1182 ]
+      }, {
+         "geometry": "L_Rib_02",
+         "range": [ 58392, 1644 ]
+      }, {
+         "geometry": "Sacrum",
+         "range": [ 60036, 19524 ]
+      }, {
+         "geometry": "Disc_C01_left",
+         "range": [ 79560, 810 ]
+      }, {
+         "geometry": "Disc_C01_right",
+         "range": [ 80370, 810 ]
+      }, {
+         "geometry": "Disc_L05",
+         "range": [ 81180, 888 ]
+      }, {
+         "geometry": "Disc_L04",
+         "range": [ 82068, 1032 ]
+      }, {
+         "geometry": "Disc_C06",
+         "range": [ 83100, 846 ]
+      }, {
+         "geometry": "Disc_C07",
+         "range": [ 83946, 828 ]
+      }, {
+         "geometry": "Disc_T01",
+         "range": [ 84774, 744 ]
+      }, {
+         "geometry": "Disc_T12",
+         "range": [ 85518, 696 ]
+      }, {
+         "geometry": "Disc_T11",
+         "range": [ 86214, 678 ]
+      }, {
+         "geometry": "Disc_T10",
+         "range": [ 86892, 894 ]
+      }, {
+         "geometry": "Disc_T09",
+         "range": [ 87786, 756 ]
+      }, {
+         "geometry": "Disc_T08",
+         "range": [ 88542, 780 ]
+      }, {
+         "geometry": "Disc_T07",
+         "range": [ 89322, 870 ]
+      }, {
+         "geometry": "Disc_C05",
+         "range": [ 90192, 846 ]
+      }, {
+         "geometry": "Disc_C04",
+         "range": [ 91038, 792 ]
+      }, {
+         "geometry": "Disc_C03",
+         "range": [ 91830, 816 ]
+      }, {
+         "geometry": "Disc_C02",
+         "range": [ 92646, 954 ]
+      }, {
+         "geometry": "Disc_L01",
+         "range": [ 93600, 888 ]
+      }, {
+         "geometry": "Disc_L02",
+         "range": [ 94488, 792 ]
+      }, {
+         "geometry": "Disc_L03",
+         "range": [ 95280, 756 ]
+      }, {
+         "geometry": "Disc_T02",
+         "range": [ 96036, 876 ]
+      }, {
+         "geometry": "Disc_T03",
+         "range": [ 96912, 864 ]
+      }, {
+         "geometry": "Disc_T04",
+         "range": [ 97776, 978 ]
+      }, {
+         "geometry": "Disc_T05",
+         "range": [ 98754, 1068 ]
+      }, {
+         "geometry": "Disc_T06",
+         "range": [ 99822, 1134 ]
+      }, {
+         "geometry": "Pubic_Symphysis",
+         "range": [ 100956, 708 ]
+      }, {
+         "geometry": "Coccyx",
+         "range": [ 101664, 3036 ]
+      }, {
+         "geometry": "Sternum",
+         "range": [ 104700, 4464 ]
+      } ],
+      "indices": "bin/f_skeleton/blinn11_indices.utf8",
+      "material": "blinn11",
+      "numIndices": 109164,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/skeleton_ribs_Sacrum.jpg"
+   }, {
+      "attribs": "bin/f_skeleton/blinn10_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Tibia",
+         "range": [ 0, 7170 ]
+      }, {
+         "geometry": "R_Fibula",
+         "range": [ 7170, 3504 ]
+      }, {
+         "geometry": "R_Patella",
+         "range": [ 10674, 1038 ]
+      }, {
+         "geometry": "R_Femur",
+         "range": [ 11712, 7476 ]
+      }, {
+         "geometry": "R_Os_Coxae",
+         "range": [ 19188, 12606 ]
+      }, {
+         "geometry": "L_Tibia",
+         "range": [ 31794, 7170 ]
+      }, {
+         "geometry": "L_Fibula",
+         "range": [ 38964, 3504 ]
+      }, {
+         "geometry": "L_Patella",
+         "range": [ 42468, 1038 ]
+      }, {
+         "geometry": "L_Femur",
+         "range": [ 43506, 7476 ]
+      }, {
+         "geometry": "L_Os_Coxae",
+         "range": [ 50982, 12606 ]
+      } ],
+      "indices": "bin/f_skeleton/blinn10_indices.utf8",
+      "material": "blinn10",
+      "numIndices": 63588,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/skeleton_legs.jpg"
+   }, {
+      "attribs": "bin/f_skeleton/blinn8_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Scapula",
+         "range": [ 0, 8712 ]
+      }, {
+         "geometry": "R_Radius",
+         "range": [ 8712, 2886 ]
+      }, {
+         "geometry": "R_Ulna",
+         "range": [ 11598, 3486 ]
+      }, {
+         "geometry": "R_Humerus",
+         "range": [ 15084, 4782 ]
+      }, {
+         "geometry": "R_Clavicle",
+         "range": [ 19866, 2772 ]
+      }, {
+         "geometry": "L_Scapula",
+         "range": [ 22638, 8712 ]
+      }, {
+         "geometry": "L_Radius",
+         "range": [ 31350, 2886 ]
+      }, {
+         "geometry": "L_Ulna",
+         "range": [ 34236, 3486 ]
+      }, {
+         "geometry": "L_Humerus",
+         "range": [ 37722, 4782 ]
+      }, {
+         "geometry": "L_Clavicle",
+         "range": [ 42504, 2772 ]
+      } ],
+      "indices": "bin/f_skeleton/blinn8_indices.utf8",
+      "material": "blinn8",
+      "numIndices": 45276,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/skeleton_arms.jpg"
+   }, {
+      "attribs": "bin/f_skeleton/blinn16_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Skull_Exterior",
+         "range": [ 0, 73176 ]
+      } ],
+      "indices": "bin/f_skeleton/blinn16_indices.utf8",
+      "material": "blinn16",
+      "numIndices": 73176,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/skeleton_skull_exterior.jpg"
+   }, {
+      "attribs": "bin/f_skeleton/blinn15_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Skull_Interior",
+         "range": [ 0, 26214 ]
+      }, {
+         "geometry": "Hyoid",
+         "range": [ 26214, 2820 ]
+      } ],
+      "indices": "bin/f_skeleton/blinn15_indices.utf8",
+      "material": "blinn15",
+      "numIndices": 29034,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/skeleton_skull_interior.jpg"
+   }, {
+      "attribs": "bin/f_skeleton/blinn14_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Mandible",
+         "range": [ 0, 8736 ]
+      }, {
+         "geometry": "Skull_interior2",
+         "range": [ 8736, 43806 ]
+      }, {
+         "geometry": "Upper_Tooth_01",
+         "range": [ 52542, 639 ]
+      }, {
+         "geometry": "Upper_Tooth_02",
+         "range": [ 53181, 591 ]
+      }, {
+         "geometry": "Upper_Tooth_03",
+         "range": [ 53772, 816 ]
+      }, {
+         "geometry": "Upper_Tooth_04",
+         "range": [ 54588, 537 ]
+      }, {
+         "geometry": "Upper_Tooth_05",
+         "range": [ 55125, 561 ]
+      }, {
+         "geometry": "Upper_Tooth_06",
+         "range": [ 55686, 528 ]
+      }, {
+         "geometry": "Upper_Tooth_07",
+         "range": [ 56214, 477 ]
+      }, {
+         "geometry": "Upper_Tooth_08",
+         "range": [ 56691, 417 ]
+      }, {
+         "geometry": "Lower_Tooth_32",
+         "range": [ 57108, 726 ]
+      }, {
+         "geometry": "Lower_Tooth_31",
+         "range": [ 57834, 708 ]
+      }, {
+         "geometry": "Lower_Tooth_30",
+         "range": [ 58542, 723 ]
+      }, {
+         "geometry": "Lower_Tooth_29",
+         "range": [ 59265, 561 ]
+      }, {
+         "geometry": "Lower_Tooth_28",
+         "range": [ 59826, 507 ]
+      }, {
+         "geometry": "Lower_Tooth_27",
+         "range": [ 60333, 495 ]
+      }, {
+         "geometry": "Lower_Tooth_26",
+         "range": [ 60828, 432 ]
+      }, {
+         "geometry": "Lower_Tooth_25",
+         "range": [ 61260, 435 ]
+      }, {
+         "geometry": "Upper_Tooth_16",
+         "range": [ 61695, 639 ]
+      }, {
+         "geometry": "Upper_Tooth_15",
+         "range": [ 62334, 591 ]
+      }, {
+         "geometry": "Upper_Tooth_14",
+         "range": [ 62925, 816 ]
+      }, {
+         "geometry": "Upper_Tooth_13",
+         "range": [ 63741, 537 ]
+      }, {
+         "geometry": "Upper_Tooth_12",
+         "range": [ 64278, 561 ]
+      }, {
+         "geometry": "Upper_Tooth_11",
+         "range": [ 64839, 528 ]
+      }, {
+         "geometry": "Upper_Tooth_10",
+         "range": [ 65367, 477 ]
+      }, {
+         "geometry": "Upper_Tooth_09",
+         "range": [ 65844, 417 ]
+      }, {
+         "geometry": "Lower_Tooth_17",
+         "range": [ 66261, 726 ]
+      }, {
+         "geometry": "Lower_Tooth_18",
+         "range": [ 66987, 708 ]
+      }, {
+         "geometry": "Lower_Tooth_19",
+         "range": [ 67695, 723 ]
+      }, {
+         "geometry": "Lower_Tooth_20",
+         "range": [ 68418, 561 ]
+      }, {
+         "geometry": "Lower_Tooth_21",
+         "range": [ 68979, 507 ]
+      }, {
+         "geometry": "Lower_Tooth_22",
+         "range": [ 69486, 495 ]
+      }, {
+         "geometry": "Lower_Tooth_23",
+         "range": [ 69981, 432 ]
+      }, {
+         "geometry": "Lower_Tooth_24",
+         "range": [ 70413, 435 ]
+      } ],
+      "indices": "bin/f_skeleton/blinn14_indices.utf8",
+      "material": "blinn14",
+      "numIndices": 70848,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/skeleton_skull_mandible.jpg"
+   }, {
+      "attribs": "bin/f_skeleton/blinn12_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Atlas",
+         "range": [ 0, 6504 ]
+      }, {
+         "geometry": "Axis",
+         "range": [ 6504, 6000 ]
+      }, {
+         "geometry": "Vertebrae_C03",
+         "range": [ 12504, 6000 ]
+      }, {
+         "geometry": "Vertebrae_C04",
+         "range": [ 18504, 6270 ]
+      }, {
+         "geometry": "Vertebrae_C05",
+         "range": [ 24774, 6018 ]
+      }, {
+         "geometry": "Vertebrae_T06",
+         "range": [ 30792, 5292 ]
+      }, {
+         "geometry": "Vertebrae_T07",
+         "range": [ 36084, 4944 ]
+      }, {
+         "geometry": "Vertebrae_T08",
+         "range": [ 41028, 4452 ]
+      }, {
+         "geometry": "Vertebrae_T09",
+         "range": [ 45480, 4056 ]
+      }, {
+         "geometry": "Vertebrae_L01",
+         "range": [ 49536, 5178 ]
+      }, {
+         "geometry": "Vertebrae_L02",
+         "range": [ 54714, 5484 ]
+      }, {
+         "geometry": "Vertebrae_L03",
+         "range": [ 60198, 5580 ]
+      }, {
+         "geometry": "Vertebrae_L04",
+         "range": [ 65778, 5598 ]
+      }, {
+         "geometry": "Vertebrae_L05",
+         "range": [ 71376, 6258 ]
+      }, {
+         "geometry": "Vertebrae_T10",
+         "range": [ 77634, 4698 ]
+      }, {
+         "geometry": "Vertebrae_C07",
+         "range": [ 82332, 11466 ]
+      }, {
+         "geometry": "Vertebrae_C06",
+         "range": [ 93798, 7152 ]
+      }, {
+         "geometry": "Vertebrae_T01",
+         "range": [ 100950, 5880 ]
+      }, {
+         "geometry": "Vertebrae_T12",
+         "range": [ 106830, 6000 ]
+      }, {
+         "geometry": "Vertebrae_T11",
+         "range": [ 112830, 5676 ]
+      }, {
+         "geometry": "Vertebrae_T02",
+         "range": [ 118506, 6558 ]
+      }, {
+         "geometry": "Vertebrae_T03",
+         "range": [ 125064, 7206 ]
+      }, {
+         "geometry": "Vertebrae_T04",
+         "range": [ 132270, 6822 ]
+      }, {
+         "geometry": "Vertebrae_T05",
+         "range": [ 139092, 6582 ]
+      } ],
+      "indices": "bin/f_skeleton/blinn12_indices.utf8",
+      "material": "blinn12",
+      "numIndices": 145674,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/skeleton_spine.jpg"
+   } ]
+}

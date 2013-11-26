@@ -1,0 +1,1332 @@
+{
+   "draw_groups": [ {
+      "attribs": "bin/f_circulatory/blinn1_attribs.utf8",
+      "diffuse_color": [ 0.35679998993873596, 0.0020218670833855867, 0.0 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Radial_Artery",
+         "range": [ 0, 2070 ]
+      }, {
+         "geometry": "R_Ulnar_Artery",
+         "range": [ 2070, 2415 ]
+      }, {
+         "geometry": "R_Posterior_Interosseous_Artery",
+         "range": [ 4485, 1968 ]
+      }, {
+         "geometry": "R_Anterior_Interosseous_Artery",
+         "range": [ 6453, 2646 ]
+      }, {
+         "geometry": "R_Deep_Palmar_Arterial_Arch",
+         "range": [ 9099, 480 ]
+      }, {
+         "geometry": "R_Deep_Palmar_Branch_Ulnar_Artery",
+         "range": [ 9579, 288 ]
+      }, {
+         "geometry": "R_Palmar_Digital_Arteries",
+         "range": [ 9867, 14754 ]
+      }, {
+         "geometry": "R_Princeps_Pollicis_Artery",
+         "range": [ 24621, 1470 ]
+      }, {
+         "geometry": "R_Superficial_Palmar_Arterial_Arch",
+         "range": [ 26091, 918 ]
+      }, {
+         "geometry": "R_Superficial_Palmar_Branch_Radial_Artery",
+         "range": [ 27009, 648 ]
+      }, {
+         "geometry": "R_Anterior_Ulnar_Recurrent_Artery",
+         "range": [ 27657, 720 ]
+      }, {
+         "geometry": "R_Superior_Ulnar_Collateral_Artery",
+         "range": [ 28377, 1161 ]
+      }, {
+         "geometry": "R_Radial_Collateral_Artery",
+         "range": [ 29538, 1830 ]
+      }, {
+         "geometry": "R_Anterior_Circumflex_Humeral_Artery",
+         "range": [ 31368, 1296 ]
+      }, {
+         "geometry": "R_Deep_Brachial_Artery",
+         "range": [ 32664, 1524 ]
+      }, {
+         "geometry": "R_Subscapular_Artery",
+         "range": [ 34188, 3222 ]
+      }, {
+         "geometry": "R_Brachial_Artery",
+         "range": [ 37410, 2193 ]
+      }, {
+         "geometry": "R_Acromial_Branch_Thoroacromial_Artery",
+         "range": [ 39603, 1704 ]
+      }, {
+         "geometry": "R_Lateral_Thoracic_Artery",
+         "range": [ 41307, 1566 ]
+      }, {
+         "geometry": "R_Posterior_Circumflex_Humeral_Artery",
+         "range": [ 42873, 1428 ]
+      }, {
+         "geometry": "R_Middle_Collateral_Artery",
+         "range": [ 44301, 1947 ]
+      }, {
+         "geometry": "R_Transverse_Cervical_Artery",
+         "range": [ 46248, 3846 ]
+      }, {
+         "geometry": "L_Transverse_Cervical_Artery",
+         "range": [ 50094, 3846 ]
+      }, {
+         "geometry": "L_Descending_Genicular_Artery",
+         "range": [ 53940, 24 ]
+      }, {
+         "geometry": "L_Middle_Collateral_Artery",
+         "range": [ 53964, 1947 ]
+      }, {
+         "geometry": "L_Posterior_Circumflex_Humeral_Artery",
+         "range": [ 55911, 1428 ]
+      }, {
+         "geometry": "L_Lateral_Thoracic_Artery",
+         "range": [ 57339, 1566 ]
+      }, {
+         "geometry": "L_Acromial_Branch_Thoroacromial_Artery",
+         "range": [ 58905, 1704 ]
+      }, {
+         "geometry": "L_Brachial_Artery",
+         "range": [ 60609, 2193 ]
+      }, {
+         "geometry": "L_Subscapular_Artery",
+         "range": [ 62802, 3222 ]
+      }, {
+         "geometry": "L_Deep_Brachial_Artery",
+         "range": [ 66024, 1524 ]
+      }, {
+         "geometry": "L_Anterior_Circumflex_Humeral_Artery",
+         "range": [ 67548, 1296 ]
+      }, {
+         "geometry": "L_Radial_Collateral_Artery",
+         "range": [ 68844, 1833 ]
+      }, {
+         "geometry": "L_Superior_Ulnar_Collateral_Artery",
+         "range": [ 70677, 1161 ]
+      }, {
+         "geometry": "L_Anterior_Ulnar_Recurrent_Artery",
+         "range": [ 71838, 720 ]
+      }, {
+         "geometry": "L_Superficial_Palmar_Branch_Radial_Artery",
+         "range": [ 72558, 648 ]
+      }, {
+         "geometry": "L_Superficial_Palmar_Arterial_Arch",
+         "range": [ 73206, 918 ]
+      }, {
+         "geometry": "L_Princeps_Pollicis_Artery",
+         "range": [ 74124, 1470 ]
+      }, {
+         "geometry": "L_Palmar_Digital_Arteries",
+         "range": [ 75594, 14754 ]
+      }, {
+         "geometry": "L_Deep_Palmar_Branch_Ulnar_Artery",
+         "range": [ 90348, 288 ]
+      }, {
+         "geometry": "L_Deep_Palmar_Arterial_Arch",
+         "range": [ 90636, 480 ]
+      }, {
+         "geometry": "L_Anterior_Interosseous_Artery",
+         "range": [ 91116, 2646 ]
+      }, {
+         "geometry": "L_Posterior_Interosseous_Artery",
+         "range": [ 93762, 1968 ]
+      }, {
+         "geometry": "L_Ulnar_Artery",
+         "range": [ 95730, 2415 ]
+      }, {
+         "geometry": "L_Radial_Artery",
+         "range": [ 98145, 2070 ]
+      }, {
+         "geometry": "R_Saphenous_Branch_Descending_Genicular_Artery",
+         "range": [ 100215, 582 ]
+      }, {
+         "geometry": "R_Lateral_Tarsal_Artery",
+         "range": [ 100797, 573 ]
+      }, {
+         "geometry": "R_Dorsal_Metatarsal_Arteries",
+         "range": [ 101370, 1536 ]
+      }, {
+         "geometry": "R_Dorsal_Digital_Arteries",
+         "range": [ 102906, 4140 ]
+      }, {
+         "geometry": "R_Circumflex_Fibular_Artery",
+         "range": [ 107046, 942 ]
+      }, {
+         "geometry": "R_Arcute_Artery",
+         "range": [ 107988, 648 ]
+      }, {
+         "geometry": "R_Anterior_Tibial_Artery",
+         "range": [ 108636, 1818 ]
+      }, {
+         "geometry": "R_Anterior_Recurrent_Tibial_Artery",
+         "range": [ 110454, 780 ]
+      }, {
+         "geometry": "R_Descending_Genicular_Artery",
+         "range": [ 111234, 24 ]
+      }, {
+         "geometry": "R_Medial_Tarsal_Arteries",
+         "range": [ 111258, 222 ]
+      }, {
+         "geometry": "R_Peroneal_Artery",
+         "range": [ 111480, 1032 ]
+      }, {
+         "geometry": "R_Lateral_Inferior_Genicular_Artery",
+         "range": [ 112512, 3240 ]
+      }, {
+         "geometry": "R_Popliteal_Artery",
+         "range": [ 115752, 219 ]
+      }, {
+         "geometry": "R_Posterior_Tibial_Artery",
+         "range": [ 115971, 1038 ]
+      }, {
+         "geometry": "R_Femoral_Artery",
+         "range": [ 117009, 777 ]
+      }, {
+         "geometry": "R_Transverse_Branch_Lateral_Circumflex_Femoral_Artery",
+         "range": [ 117786, 2790 ]
+      }, {
+         "geometry": "R_Medial_Circumflex_Artery",
+         "range": [ 120576, 2772 ]
+      }, {
+         "geometry": "R_Descending_Branch_Lateral_Circumflex_Femoral_Artery",
+         "range": [ 123348, 3150 ]
+      }, {
+         "geometry": "R_Deep_Femoral_Artery",
+         "range": [ 126498, 7074 ]
+      }, {
+         "geometry": "R_Ascending_Branch_Lateral_Circumflex_Femoral_Artery",
+         "range": [ 133572, 4065 ]
+      }, {
+         "geometry": "R_Lateral_Circumflex_Femoral_Artery",
+         "range": [ 137637, 150 ]
+      }, {
+         "geometry": "R_Medial_Inferior_Genicular_Artery",
+         "range": [ 137787, 2994 ]
+      }, {
+         "geometry": "R_Articular_Branch_Descending_Genicular_Artery",
+         "range": [ 140781, 402 ]
+      }, {
+         "geometry": "L_Articular_Branch_Descending_Genicular_Artery",
+         "range": [ 141183, 402 ]
+      }, {
+         "geometry": "L_Medial_Inferior_Genicular_Artery",
+         "range": [ 141585, 2994 ]
+      }, {
+         "geometry": "L_Lateral_Circumflex_Femoral_Artery",
+         "range": [ 144579, 150 ]
+      }, {
+         "geometry": "L_Ascending_Branch_Lateral_Circumflex_Femoral_Artery",
+         "range": [ 144729, 4065 ]
+      }, {
+         "geometry": "L_Deep_Femoral_Artery",
+         "range": [ 148794, 7074 ]
+      }, {
+         "geometry": "L_Descending_Branch_Lateral_Circumflex_Femoral_Artery",
+         "range": [ 155868, 3150 ]
+      }, {
+         "geometry": "L_Medial_Circumflex_Artery",
+         "range": [ 159018, 2772 ]
+      }, {
+         "geometry": "L_Transverse_Branch_Lateral_Circumflex_Femoral_Artery",
+         "range": [ 161790, 2790 ]
+      }, {
+         "geometry": "L_Femoral_Artery",
+         "range": [ 164580, 792 ]
+      }, {
+         "geometry": "L_Posterior_Tibial_Artery",
+         "range": [ 165372, 1038 ]
+      }, {
+         "geometry": "L_Popliteal_Artery",
+         "range": [ 166410, 219 ]
+      }, {
+         "geometry": "L_Lateral_Inferior_Genicular_Artery",
+         "range": [ 166629, 3240 ]
+      }, {
+         "geometry": "L_Peroneal_Artery",
+         "range": [ 169869, 1032 ]
+      }, {
+         "geometry": "L_Medial_Tarsal_Arteries",
+         "range": [ 170901, 222 ]
+      }, {
+         "geometry": "L_Anterior_Recurrent_Tibial_Artery",
+         "range": [ 171123, 780 ]
+      }, {
+         "geometry": "L_Anterior_Tibial_Artery",
+         "range": [ 171903, 1818 ]
+      }, {
+         "geometry": "L_Arcute_Artery",
+         "range": [ 173721, 648 ]
+      }, {
+         "geometry": "L_Circumflex_Fibular_Artery",
+         "range": [ 174369, 942 ]
+      }, {
+         "geometry": "L_Dorsal_Digital_Arteries",
+         "range": [ 175311, 4140 ]
+      }, {
+         "geometry": "L_Dorsal_Metatarsal_Arteries",
+         "range": [ 179451, 1536 ]
+      }, {
+         "geometry": "L_Lateral_Tarsal_Artery",
+         "range": [ 180987, 573 ]
+      }, {
+         "geometry": "L_Saphenous_Branch_Descending_Genicular_Artery",
+         "range": [ 181560, 582 ]
+      }, {
+         "geometry": "R_Subclavian_Artery",
+         "range": [ 182142, 1134 ]
+      }, {
+         "geometry": "R_Axillary_Artery",
+         "range": [ 183276, 834 ]
+      }, {
+         "geometry": "L_Axillary_Artery",
+         "range": [ 184110, 1074 ]
+      }, {
+         "geometry": "L_Inferior_Thyroid_Artery",
+         "range": [ 185184, 777 ]
+      }, {
+         "geometry": "Anterior_Cecal_Artery",
+         "range": [ 185961, 1023 ]
+      }, {
+         "geometry": "Marginal_Artery",
+         "range": [ 186984, 19935 ]
+      }, {
+         "geometry": "Middle_Colic_Artery",
+         "range": [ 206919, 588 ]
+      }, {
+         "geometry": "Posterior_Cecal_Artery",
+         "range": [ 207507, 1176 ]
+      }, {
+         "geometry": "R_Colic_Artery",
+         "range": [ 208683, 906 ]
+      }, {
+         "geometry": "Sigmoid_Arteries",
+         "range": [ 209589, 2706 ]
+      }, {
+         "geometry": "Superior_Mesenteric_Artery",
+         "range": [ 212295, 4800 ]
+      }, {
+         "geometry": "Ascending_Branch_Left_Colic_Artery",
+         "range": [ 217095, 648 ]
+      }, {
+         "geometry": "Descending_Branch_Left_Colic_Artery",
+         "range": [ 217743, 264 ]
+      }, {
+         "geometry": "L_Colic_Artery",
+         "range": [ 218007, 138 ]
+      }, {
+         "geometry": "ileocolic_Artery",
+         "range": [ 218145, 426 ]
+      }, {
+         "geometry": "ileal_Branch_Ileocolic_Artery",
+         "range": [ 218571, 108 ]
+      }, {
+         "geometry": "Colic_Branch_Ileocolic_Artery",
+         "range": [ 218679, 150 ]
+      }, {
+         "geometry": "Appendicular_Artery",
+         "range": [ 218829, 2040 ]
+      }, {
+         "geometry": "Anterior_Superior_Pancreaticoduodenal_Artery",
+         "range": [ 220869, 2046 ]
+      }, {
+         "geometry": "Accessory_Left_Hepatic_Artery",
+         "range": [ 222915, 633 ]
+      }, {
+         "geometry": "Common_Hepatic_Artery",
+         "range": [ 223548, 213 ]
+      }, {
+         "geometry": "Esophageal_Arteries",
+         "range": [ 223761, 1209 ]
+      }, {
+         "geometry": "Gastroduodenal_Artery",
+         "range": [ 224970, 348 ]
+      }, {
+         "geometry": "Gatroepiploic_Artery",
+         "range": [ 225318, 5766 ]
+      }, {
+         "geometry": "Inferior_Phrenic_Arteries",
+         "range": [ 231084, 2070 ]
+      }, {
+         "geometry": "Intermediate_Hepatic_Artery",
+         "range": [ 233154, 2166 ]
+      }, {
+         "geometry": "L_Renal_Artery",
+         "range": [ 235320, 7707 ]
+      }, {
+         "geometry": "L_Gastric_Artery",
+         "range": [ 243027, 3516 ]
+      }, {
+         "geometry": "L_Hepatic_Artery",
+         "range": [ 246543, 1668 ]
+      }, {
+         "geometry": "Proper_Hepatic_Artery",
+         "range": [ 248211, 189 ]
+      }, {
+         "geometry": "R_Renal_Artery",
+         "range": [ 248400, 8916 ]
+      }, {
+         "geometry": "R_Gastric_Artery",
+         "range": [ 257316, 1170 ]
+      }, {
+         "geometry": "R_Hepatic_Artery",
+         "range": [ 258486, 4296 ]
+      }, {
+         "geometry": "Splenic_Artery",
+         "range": [ 262782, 1263 ]
+      }, {
+         "geometry": "R_Suprascapular_Artery",
+         "range": [ 264045, 3705 ]
+      }, {
+         "geometry": "L_Subclavian_Artery",
+         "range": [ 267750, 936 ]
+      }, {
+         "geometry": "R_Intercostal_Arteries",
+         "range": [ 268686, 22326 ]
+      }, {
+         "geometry": "L_Intercostal_Arteries",
+         "range": [ 291012, 22278 ]
+      }, {
+         "geometry": "Descending_Aorta",
+         "range": [ 313290, 4593 ]
+      }, {
+         "geometry": "L_Superior_Gluteal_Artery",
+         "range": [ 317883, 1809 ]
+      }, {
+         "geometry": "Uterine_Artery_Plexus",
+         "range": [ 319692, 26550 ]
+      }, {
+         "geometry": "R_Inferior_Vesicle_Artery",
+         "range": [ 346242, 3552 ]
+      }, {
+         "geometry": "L_Lateral_Sacral_Artery",
+         "range": [ 349794, 1332 ]
+      }, {
+         "geometry": "Inferior_Mesenteric_Artery",
+         "range": [ 351126, 708 ]
+      }, {
+         "geometry": "L_Interior_Iliac_Artery",
+         "range": [ 351834, 831 ]
+      }, {
+         "geometry": "Superior_Rectal_Artery",
+         "range": [ 352665, 6054 ]
+      }, {
+         "geometry": "R_External_Iliac_Artery",
+         "range": [ 358719, 435 ]
+      }, {
+         "geometry": "L_External_Iliac_Artery",
+         "range": [ 359154, 585 ]
+      }, {
+         "geometry": "L_Common_Iliac_Artery",
+         "range": [ 359739, 675 ]
+      }, {
+         "geometry": "R_Common_Iliac_Artery",
+         "range": [ 360414, 273 ]
+      }, {
+         "geometry": "R_Interior_Iliac_Artery",
+         "range": [ 360687, 909 ]
+      }, {
+         "geometry": "R_Superior_Gluteal_Artery",
+         "range": [ 361596, 1902 ]
+      }, {
+         "geometry": "R_Lateral_Sacral_Artery",
+         "range": [ 363498, 1416 ]
+      }, {
+         "geometry": "L_Inferior_Vesicle_Artery",
+         "range": [ 364914, 4104 ]
+      }, {
+         "geometry": "Vaginal_Artery_Plexus",
+         "range": [ 369018, 7128 ]
+      }, {
+         "geometry": "R_Ovarian_Artery",
+         "range": [ 376146, 2814 ]
+      }, {
+         "geometry": "L_Ovarian_Artery",
+         "range": [ 378960, 3642 ]
+      }, {
+         "geometry": "R_Internal_Prudendal_Artery",
+         "range": [ 382602, 2400 ]
+      } ],
+      "indices": "bin/f_circulatory/blinn1_indices.utf8",
+      "material": "blinn1",
+      "numIndices": 385002,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   },  {
+      "attribs": "bin/f_circulatory/blinn3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Interior_Aorta",
+         "range": [ 0, 1971 ]
+      }, {
+         "geometry": "Interior_Aortic_Valve",
+         "range": [ 1971, 4170 ]
+      }, {
+         "geometry": "L_Interior_Atrium",
+         "range": [ 6141, 4221 ]
+      }, {
+         "geometry": "L_Interior_AV_Valve",
+         "range": [ 10362, 6459 ]
+      }, {
+         "geometry": "L_Interior_Ventricle",
+         "range": [ 16821, 9336 ]
+      }, {
+         "geometry": "Interior_Pulmonary_Valve",
+         "range": [ 26157, 3474 ]
+      } ],
+      "indices": "bin/f_circulatory/blinn3_indices.utf8",
+      "material": "blinn3",
+      "numIndices": 29631,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/heart_int_left.jpg"
+   }, {
+      "attribs": "bin/f_circulatory/blinn5_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Interior_Inferior_Vena_cava",
+         "range": [ 0, 336 ]
+      }, {
+         "geometry": "R_Interior_Atrium",
+         "range": [ 336, 4722 ]
+      }, {
+         "geometry": "R_Interior_AV_Valve",
+         "range": [ 5058, 8205 ]
+      }, {
+         "geometry": "R_Interior_Ventricle",
+         "range": [ 13263, 12348 ]
+      }, {
+         "geometry": "Interior_Pulmonary_Trunk",
+         "range": [ 25611, 1341 ]
+      }, {
+         "geometry": "Interior_Superior_Vena_cava",
+         "range": [ 26952, 1095 ]
+      } ],
+      "indices": "bin/f_circulatory/blinn5_indices.utf8",
+      "material": "blinn5",
+      "numIndices": 28047,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/heart_int_right.jpg"
+   }, {
+      "attribs": "bin/f_circulatory/F_Circulatory_Textured_20th_blinn2_attribs.utf8",
+      "diffuse_color": [ 0.025287240743637085, 0.020799990743398666, 0.4000000059604645 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Brachial_Vein",
+         "range": [ 0, 750 ]
+      }, {
+         "geometry": "R_Basilic_Vein",
+         "range": [ 750, 2946 ]
+      }, {
+         "geometry": "R_Acromial_Vein",
+         "range": [ 3696, 1758 ]
+      }, {
+         "geometry": "R_Cephalic_Vein",
+         "range": [ 5454, 5817 ]
+      }, {
+         "geometry": "R_Axillary_Vein",
+         "range": [ 11271, 537 ]
+      }, {
+         "geometry": "R_Dorsal_Digital_Veins",
+         "range": [ 11808, 15408 ]
+      }, {
+         "geometry": "R_Accessory_Cephalic_Vein",
+         "range": [ 27216, 1812 ]
+      }, {
+         "geometry": "R_Intermediate_Cephalic_Vein",
+         "range": [ 29028, 468 ]
+      }, {
+         "geometry": "R_Intermediate_Median_Basilic_Vein",
+         "range": [ 29496, 471 ]
+      }, {
+         "geometry": "R_Median_Antebrachial_Vein",
+         "range": [ 29967, 3114 ]
+      }, {
+         "geometry": "R_Ulnar_Vein",
+         "range": [ 33081, 1785 ]
+      }, {
+         "geometry": "R_Radial_Vein",
+         "range": [ 34866, 1875 ]
+      }, {
+         "geometry": "R_Superficial_Palmar_Venous_Arch",
+         "range": [ 36741, 690 ]
+      }, {
+         "geometry": "R_Proper_Palmar_Digital_Veins",
+         "range": [ 37431, 10002 ]
+      }, {
+         "geometry": "R_Dorsal_Venous_Arch",
+         "range": [ 47433, 684 ]
+      }, {
+         "geometry": "R_Dorsal_Metacarpal_Veins",
+         "range": [ 48117, 1812 ]
+      }, {
+         "geometry": "L_Brachial_Vein",
+         "range": [ 49929, 750 ]
+      }, {
+         "geometry": "L_Basilic_Vein",
+         "range": [ 50679, 2946 ]
+      }, {
+         "geometry": "L_Acromial_Vein",
+         "range": [ 53625, 1758 ]
+      }, {
+         "geometry": "L_Cephalic_Vein",
+         "range": [ 55383, 5817 ]
+      }, {
+         "geometry": "L_Axillary_Vein",
+         "range": [ 61200, 537 ]
+      }, {
+         "geometry": "L_Dorsal_Digital_Veins",
+         "range": [ 61737, 15408 ]
+      }, {
+         "geometry": "L_Accessory_Cephalic_Vein",
+         "range": [ 77145, 1812 ]
+      }, {
+         "geometry": "L_Intermediate_Cephalic_Vein",
+         "range": [ 78957, 468 ]
+      }, {
+         "geometry": "L_Intermediate_Median_Basilic_Vein",
+         "range": [ 79425, 471 ]
+      }, {
+         "geometry": "L_Median_Antebrachial_Vein",
+         "range": [ 79896, 3114 ]
+      }, {
+         "geometry": "L_Ulnar_Vein",
+         "range": [ 83010, 1785 ]
+      }, {
+         "geometry": "L_Radial_Vein",
+         "range": [ 84795, 1875 ]
+      }, {
+         "geometry": "L_Superficial_Palmar_Venous_Arch",
+         "range": [ 86670, 690 ]
+      }, {
+         "geometry": "L_Proper_Palmar_Digital_Veins",
+         "range": [ 87360, 10002 ]
+      }, {
+         "geometry": "L_Dorsal_Venous_Arch",
+         "range": [ 97362, 684 ]
+      }, {
+         "geometry": "L_Dorsal_Metacarpal_Veins",
+         "range": [ 98046, 1812 ]
+      }, {
+         "geometry": "R_Lateral_Circumflex_Femoral_Vein",
+         "range": [ 99858, 2034 ]
+      }, {
+         "geometry": "R_Medial_Circumflex_Femoral_Vein",
+         "range": [ 101892, 1110 ]
+      }, {
+         "geometry": "R_Deep_Femoral_Vein",
+         "range": [ 103002, 606 ]
+      }, {
+         "geometry": "R_Femoral_Vein",
+         "range": [ 103608, 864 ]
+      }, {
+         "geometry": "R_Anterior_Femoral_Cutaneous_Vein",
+         "range": [ 104472, 7326 ]
+      }, {
+         "geometry": "R_Accessory_Saphenous_Vein",
+         "range": [ 111798, 4518 ]
+      }, {
+         "geometry": "R_Dorsal_Digital_Veins_foot",
+         "range": [ 116316, 3876 ]
+      }, {
+         "geometry": "R_Lateral_Dorsal_Digital_Vein",
+         "range": [ 120192, 1086 ]
+      }, {
+         "geometry": "R_Lesser_Saphenous_Vein",
+         "range": [ 121278, 3060 ]
+      }, {
+         "geometry": "R_Anterior_Tibial_Vein",
+         "range": [ 124338, 1230 ]
+      }, {
+         "geometry": "R_Dorsal_Venous_Foot_Arch",
+         "range": [ 125568, 1536 ]
+      }, {
+         "geometry": "R_Great_Saphenous_Vein",
+         "range": [ 127104, 8520 ]
+      }, {
+         "geometry": "R_Popliteal_Vein",
+         "range": [ 135624, 168 ]
+      }, {
+         "geometry": "R_Posterior_Tibial_Vein",
+         "range": [ 135792, 1002 ]
+      }, {
+         "geometry": "L_Lateral_Circumflex_Femoral_Vein",
+         "range": [ 136794, 2034 ]
+      }, {
+         "geometry": "L_Medial_Circumflex_Femoral_Vein",
+         "range": [ 138828, 1110 ]
+      }, {
+         "geometry": "L_Deep_Femoral_Vein",
+         "range": [ 139938, 606 ]
+      }, {
+         "geometry": "L_Femoral_Vein",
+         "range": [ 140544, 864 ]
+      }, {
+         "geometry": "L_Anterior_Femoral_Cutaneous_Vein",
+         "range": [ 141408, 7326 ]
+      }, {
+         "geometry": "L_Accessory_Saphenous_Vein",
+         "range": [ 148734, 4518 ]
+      }, {
+         "geometry": "L_Dorsal_Digital_Veins_foot",
+         "range": [ 153252, 3876 ]
+      }, {
+         "geometry": "L_Lateral_Dorsal_Digital_Vein",
+         "range": [ 157128, 1086 ]
+      }, {
+         "geometry": "L_Lesser_Saphenous_Vein",
+         "range": [ 158214, 3060 ]
+      }, {
+         "geometry": "L_Anterior_Tibial_Vein",
+         "range": [ 161274, 1230 ]
+      }, {
+         "geometry": "L_Dorsal_Venous_Foot_Arch",
+         "range": [ 162504, 1536 ]
+      }, {
+         "geometry": "L_Great_Saphenous_Vein",
+         "range": [ 164040, 8535 ]
+      }, {
+         "geometry": "L_Popliteal_Vein",
+         "range": [ 172575, 168 ]
+      }, {
+         "geometry": "L_Posterior_Tibial_Vein",
+         "range": [ 172743, 1002 ]
+      }, {
+         "geometry": "L_Subclavian_Vein",
+         "range": [ 173745, 1302 ]
+      }, {
+         "geometry": "R_Subclavian_Vein",
+         "range": [ 175047, 1464 ]
+      }, {
+         "geometry": "L_Inferior_Thyroid_Vein",
+         "range": [ 176511, 834 ]
+      }, {
+         "geometry": "R_Inferior_Thyroid_Vein",
+         "range": [ 177345, 834 ]
+      }, {
+         "geometry": "Anterior_Cecal_Vein",
+         "range": [ 178179, 618 ]
+      }, {
+         "geometry": "Appendicular_Vein",
+         "range": [ 178797, 1350 ]
+      }, {
+         "geometry": "ileocolic_Vein",
+         "range": [ 180147, 8829 ]
+      }, {
+         "geometry": "L_Colic_Vein",
+         "range": [ 188976, 5802 ]
+      }, {
+         "geometry": "Middle_Colic_Vein",
+         "range": [ 194778, 4356 ]
+      }, {
+         "geometry": "Posterior_Cecal_Vein",
+         "range": [ 199134, 966 ]
+      }, {
+         "geometry": "Right_Colic_Vein",
+         "range": [ 200100, 2895 ]
+      }, {
+         "geometry": "Sigmoid_Veins",
+         "range": [ 202995, 5526 ]
+      }, {
+         "geometry": "Inferior_Mesenteric_Vein",
+         "range": [ 208521, 1122 ]
+      }, {
+         "geometry": "Superior_Mesenteric_Vein",
+         "range": [ 209643, 3819 ]
+      }, {
+         "geometry": "R_Renal_Vein",
+         "range": [ 213462, 6702 ]
+      }, {
+         "geometry": "L_Renal_Vein",
+         "range": [ 220164, 6825 ]
+      }, {
+         "geometry": "L_Gastroepiploic_Vein",
+         "range": [ 226989, 6936 ]
+      }, {
+         "geometry": "Anterior_Superior_Pancreaticoduodenal_Vein",
+         "range": [ 233925, 831 ]
+      }, {
+         "geometry": "Anterior_Inferior_Pancreaticoduodenal_Vein",
+         "range": [ 234756, 816 ]
+      }, {
+         "geometry": "L_Gastric_Vein",
+         "range": [ 235572, 4098 ]
+      }, {
+         "geometry": "Hepatic_Veins",
+         "range": [ 239670, 4779 ]
+      }, {
+         "geometry": "Portal_Vein",
+         "range": [ 244449, 13068 ]
+      }, {
+         "geometry": "Great_Pancreatic_Vein",
+         "range": [ 257517, 366 ]
+      }, {
+         "geometry": "Splenic_Vein",
+         "range": [ 257883, 1047 ]
+      }, {
+         "geometry": "Hemiazygos_Vein",
+         "range": [ 258930, 2448 ]
+      }, {
+         "geometry": "Azygos_Vein",
+         "range": [ 261378, 2649 ]
+      }, {
+         "geometry": "L_Intercostal_Veins",
+         "range": [ 264027, 22329 ]
+      }, {
+         "geometry": "R_Intercostal_Veins",
+         "range": [ 286356, 22368 ]
+      }, {
+         "geometry": "Perimuscular_Rectal_Plexus",
+         "range": [ 308724, 6576 ]
+      }, {
+         "geometry": "R_Middle_Rectal_Vein",
+         "range": [ 315300, 1296 ]
+      }, {
+         "geometry": "L_Middle_Rectal_Vein",
+         "range": [ 316596, 270 ]
+      }, {
+         "geometry": "R_Inferior_Rectal_Vein",
+         "range": [ 316866, 3024 ]
+      }, {
+         "geometry": "L_Inferior_Gluteal_Vein",
+         "range": [ 319890, 2208 ]
+      }, {
+         "geometry": "R_Inferior_Gluteal_Vein",
+         "range": [ 322098, 1422 ]
+      }, {
+         "geometry": "L_Vaginal_Vein",
+         "range": [ 323520, 480 ]
+      }, {
+         "geometry": "L_Uterine_Vein",
+         "range": [ 324000, 504 ]
+      }, {
+         "geometry": "R_Vaginal_Vein",
+         "range": [ 324504, 528 ]
+      }, {
+         "geometry": "R_Uterine_Vein",
+         "range": [ 325032, 432 ]
+      }, {
+         "geometry": "L_Internal_Prudendal_Vein",
+         "range": [ 325464, 2736 ]
+      }, {
+         "geometry": "R_Internal_Prudendal_Vein",
+         "range": [ 328200, 1728 ]
+      }, {
+         "geometry": "R_Umbilical_Vein",
+         "range": [ 329928, 2478 ]
+      }, {
+         "geometry": "L_Ovarian_Vein",
+         "range": [ 332406, 3246 ]
+      }, {
+         "geometry": "R_Ovarian_Vein",
+         "range": [ 335652, 2592 ]
+      }, {
+         "geometry": "L_Umbilical_Vein",
+         "range": [ 338244, 2802 ]
+      }, {
+         "geometry": "Uterine_Venous_Plexus",
+         "range": [ 341046, 24024 ]
+      }, {
+         "geometry": "Vaginal_Venous_Plexus",
+         "range": [ 365070, 6222 ]
+      }, {
+         "geometry": "L_Common_Iliac_Vein",
+         "range": [ 371292, 159 ]
+      }, {
+         "geometry": "L_External_Iliac_Vein",
+         "range": [ 371451, 738 ]
+      }, {
+         "geometry": "L_Inferior_Rectal_Vein",
+         "range": [ 372189, 2418 ]
+      }, {
+         "geometry": "R_Obturator_Vein",
+         "range": [ 374607, 3078 ]
+      }, {
+         "geometry": "L_Obturator_Vein",
+         "range": [ 377685, 3462 ]
+      }, {
+         "geometry": "L_Internal_Iliac_Vein",
+         "range": [ 381147, 1020 ]
+      }, {
+         "geometry": "R_External_Iliac_Vein",
+         "range": [ 382167, 843 ]
+      }, {
+         "geometry": "Vena_Cava",
+         "range": [ 383010, 2490 ]
+      }, {
+         "geometry": "R_Common_Iliac_Vein",
+         "range": [ 385500, 231 ]
+      } ],
+      "indices": "bin/f_circulatory/F_Circulatory_Textured_20th_blinn2_indices.utf8",
+      "material": "F_Circulatory_Textured_20th_blinn2",
+      "numIndices": 385731,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   }, {
+      "attribs": "bin/f_circulatory/blinn6_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Atrium",
+         "range": [ 0, 3336 ]
+      }, {
+         "geometry": "Pulmonary_Veins",
+         "range": [ 3336, 8049 ]
+      }, {
+         "geometry": "Inferior_Vena_cava",
+         "range": [ 11385, 186 ]
+      }, {
+         "geometry": "Superior_Vena_cava",
+         "range": [ 11571, 1446 ]
+      }, {
+         "geometry": "L_Atrium",
+         "range": [ 13017, 3594 ]
+      } ],
+      "indices": "bin/f_circulatory/blinn6_indices.utf8",
+      "material": "blinn6",
+      "numIndices": 16611,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/heart_ex_atrium.jpg"
+   }, {
+      "attribs": "bin/f_circulatory/blinn4_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Ventricles",
+         "range": [ 0, 1968 ]
+      }, {
+         "geometry": "Pulmonary_Trunk",
+         "range": [ 1968, 1014 ]
+      }, {
+         "geometry": "Pulmonary_Artery",
+         "range": [ 2982, 9489 ]
+      }, {
+         "geometry": "Aorta",
+         "range": [ 12471, 1530 ]
+      } ],
+      "indices": "bin/f_circulatory/blinn4_indices.utf8",
+      "material": "blinn4",
+      "numIndices": 14001,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/heart_ex_ventr.jpg"
+   }, {
+      "attribs": "bin/f_circulatory/blinn1_p1_attribs.utf8",
+      "diffuse_color": [ 0.35679998993873596, 0.0020218670833855867, 0.0 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "L_Internal_Prudendal_Artery",
+         "range": [ 0, 2568 ]
+      }, {
+         "geometry": "R_Uterine_Artery",
+         "range": [ 2568, 2496 ]
+      }, {
+         "geometry": "R_Vaginal_Artery",
+         "range": [ 5064, 384 ]
+      }, {
+         "geometry": "L_Uterine_Artery",
+         "range": [ 5448, 324 ]
+      }, {
+         "geometry": "L_Vaginal_Artery",
+         "range": [ 5772, 1956 ]
+      }, {
+         "geometry": "R_Inferior_Gluteal_Artery",
+         "range": [ 7728, 2070 ]
+      }, {
+         "geometry": "L_Inferior_Gluteal_Artery",
+         "range": [ 9798, 2214 ]
+      }, {
+         "geometry": "L_Inferior_Rectal_Artery",
+         "range": [ 12012, 1686 ]
+      }, {
+         "geometry": "R_Inferior_Rectal_Artery",
+         "range": [ 13698, 2502 ]
+      }, {
+         "geometry": "R_Middle_Rectal_Artery",
+         "range": [ 16200, 1182 ]
+      }, {
+         "geometry": "L_Middle_Rectal_Artery",
+         "range": [ 17382, 1470 ]
+      }, {
+         "geometry": "L_Suprascapular_Artery",
+         "range": [ 18852, 3705 ]
+      }, {
+         "geometry": "L_Obturator_Artery",
+         "range": [ 22557, 4494 ]
+      }, {
+         "geometry": "R_Obturator_Artery",
+         "range": [ 27051, 2616 ]
+      }, {
+         "geometry": "R_Inferior_Thyroid_Artery",
+         "range": [ 29667, 864 ]
+      }, {
+         "geometry": "Celiac_trunk",
+         "range": [ 30531, 399 ]
+      }, {
+         "geometry": "L_Angular_Artery",
+         "range": [ 30930, 3060 ]
+      }, {
+         "geometry": "L_Deep_Temporal_Artery",
+         "range": [ 33990, 1932 ]
+      }, {
+         "geometry": "L_External_Carotid_Artery",
+         "range": [ 35922, 852 ]
+      }, {
+         "geometry": "L_Meningeal_Artery",
+         "range": [ 36774, 8172 ]
+      }, {
+         "geometry": "L_Occipital_Artery",
+         "range": [ 44946, 3102 ]
+      }, {
+         "geometry": "L_Posterior_Auricular_Artery",
+         "range": [ 48048, 966 ]
+      }, {
+         "geometry": "L_Superior_Laryngeal_Artery",
+         "range": [ 49014, 126 ]
+      }, {
+         "geometry": "L_Superior_Temporal_Artery",
+         "range": [ 49140, 4662 ]
+      }, {
+         "geometry": "L_Superior_Thyroid_Artery",
+         "range": [ 53802, 768 ]
+      }, {
+         "geometry": "L_Posterior_Communicating_Artery",
+         "range": [ 54570, 300 ]
+      }, {
+         "geometry": "L_PCA_P02",
+         "range": [ 54870, 219 ]
+      }, {
+         "geometry": "L_PCA_P01",
+         "range": [ 55089, 195 ]
+      }, {
+         "geometry": "L_Posterior_Inferior_Cerebellar_Artery",
+         "range": [ 55284, 1113 ]
+      }, {
+         "geometry": "L_Ophthalmic_Artery",
+         "range": [ 56397, 4773 ]
+      }, {
+         "geometry": "L_Lenticulostriate_Artery",
+         "range": [ 61170, 3756 ]
+      }, {
+         "geometry": "L_Internal_Carotid_Artery",
+         "range": [ 64926, 1206 ]
+      }, {
+         "geometry": "L_Pontine_Artery",
+         "range": [ 66132, 1440 ]
+      }, {
+         "geometry": "L_Perforator_Artery",
+         "range": [ 67572, 4266 ]
+      }, {
+         "geometry": "L_Anterior_Communicating_Artery",
+         "range": [ 71838, 60 ]
+      }, {
+         "geometry": "L_Superior_Cerebellar_Artery",
+         "range": [ 71898, 2190 ]
+      }, {
+         "geometry": "L_Alveolar_Artery",
+         "range": [ 74088, 2520 ]
+      }, {
+         "geometry": "L_Anterior_Inferior_Cerebellar_Artery",
+         "range": [ 76608, 1632 ]
+      }, {
+         "geometry": "L_Facial_Artery",
+         "range": [ 78240, 3675 ]
+      }, {
+         "geometry": "L_Maxillary_Artery",
+         "range": [ 81915, 3813 ]
+      }, {
+         "geometry": "L_PCA_Anterior_Temporal_Artery",
+         "range": [ 85728, 2922 ]
+      }, {
+         "geometry": "L_PCA_Calcarine_Artery",
+         "range": [ 88650, 1341 ]
+      }, {
+         "geometry": "L_PCA_Posterior_Temporal_Artery",
+         "range": [ 89991, 2568 ]
+      }, {
+         "geometry": "L_PCA_P04",
+         "range": [ 92559, 579 ]
+      }, {
+         "geometry": "L_PCA_P03",
+         "range": [ 93138, 186 ]
+      }, {
+         "geometry": "L_Anterior_Cerebellar_Artery",
+         "range": [ 93324, 9684 ]
+      }, {
+         "geometry": "L_Middle_Cerebral_Artery",
+         "range": [ 103008, 20193 ]
+      }, {
+         "geometry": "L_PCA_Posterior_Pericallosal_Artery",
+         "range": [ 123201, 1308 ]
+      }, {
+         "geometry": "L_PCA_Parietal_Occipital_Artery",
+         "range": [ 124509, 1479 ]
+      }, {
+         "geometry": "L_Common_Carotid_Artery",
+         "range": [ 125988, 723 ]
+      }, {
+         "geometry": "L_Vertebral_Artery",
+         "range": [ 126711, 2406 ]
+      }, {
+         "geometry": "R_Angular_Artery",
+         "range": [ 129117, 3060 ]
+      }, {
+         "geometry": "R_Deep_Temporal_Artery",
+         "range": [ 132177, 1932 ]
+      }, {
+         "geometry": "R_External_Carotid_Artery",
+         "range": [ 134109, 849 ]
+      }, {
+         "geometry": "R_Meningeal_Artery",
+         "range": [ 134958, 8172 ]
+      }, {
+         "geometry": "R_Occipital_Artery",
+         "range": [ 143130, 3102 ]
+      }, {
+         "geometry": "R_Posterior_Auricular_Artery",
+         "range": [ 146232, 966 ]
+      }, {
+         "geometry": "R_Superior_Laryngeal_Artery",
+         "range": [ 147198, 126 ]
+      }, {
+         "geometry": "R_Superior_Temporal_Artery",
+         "range": [ 147324, 4662 ]
+      }, {
+         "geometry": "R_Superior_Thyroid_Artery",
+         "range": [ 151986, 768 ]
+      }, {
+         "geometry": "R_Common_Carotid_Artery",
+         "range": [ 152754, 612 ]
+      }, {
+         "geometry": "R_Anterior_Cerebellar_Artery",
+         "range": [ 153366, 9930 ]
+      }, {
+         "geometry": "R_Posterior_Communicating_Artery",
+         "range": [ 163296, 300 ]
+      }, {
+         "geometry": "R_PCA_P02",
+         "range": [ 163596, 219 ]
+      }, {
+         "geometry": "R_PCA_P01",
+         "range": [ 163815, 195 ]
+      }, {
+         "geometry": "R_PCA_Parietal_Occipital_Artery",
+         "range": [ 164010, 1707 ]
+      }, {
+         "geometry": "R_Basilar_Artery",
+         "range": [ 165717, 717 ]
+      }, {
+         "geometry": "R_Posterior_Inferior_Cerebellar_Artery",
+         "range": [ 166434, 1113 ]
+      }, {
+         "geometry": "R_Vertebral_Artery",
+         "range": [ 167547, 2268 ]
+      }, {
+         "geometry": "R_Ophthalmic_Artery",
+         "range": [ 169815, 4773 ]
+      }, {
+         "geometry": "R_Lenticulostriate_Artery",
+         "range": [ 174588, 3756 ]
+      }, {
+         "geometry": "R_Internal_Carotid_Artery",
+         "range": [ 178344, 1203 ]
+      }, {
+         "geometry": "R_Pontine_Artery",
+         "range": [ 179547, 1440 ]
+      }, {
+         "geometry": "R_Perforator_Artery",
+         "range": [ 180987, 4266 ]
+      }, {
+         "geometry": "R_Anterior_Communicating_Artery",
+         "range": [ 185253, 60 ]
+      }, {
+         "geometry": "R_Superior_Cerebellar_Artery",
+         "range": [ 185313, 2181 ]
+      }, {
+         "geometry": "R_Alveolar_Artery",
+         "range": [ 187494, 2520 ]
+      }, {
+         "geometry": "R_Anterior_Inferior_Cerebellar_Artery",
+         "range": [ 190014, 1632 ]
+      }, {
+         "geometry": "R_Facial_Artery",
+         "range": [ 191646, 3675 ]
+      }, {
+         "geometry": "R_Maxillary_Artery",
+         "range": [ 195321, 3813 ]
+      }, {
+         "geometry": "R_Middle_Cerebral_Artery",
+         "range": [ 199134, 20967 ]
+      }, {
+         "geometry": "R_PCA_Anterior_Temporal_Artery",
+         "range": [ 220101, 2946 ]
+      }, {
+         "geometry": "R_PCA_Calcarine_Artery",
+         "range": [ 223047, 1341 ]
+      }, {
+         "geometry": "R_PCA_Posterior_Pericallosal_Artery",
+         "range": [ 224388, 1206 ]
+      }, {
+         "geometry": "R_PCA_Posterior_Temporal_Artery",
+         "range": [ 225594, 2568 ]
+      }, {
+         "geometry": "R_PCA_P04",
+         "range": [ 228162, 579 ]
+      }, {
+         "geometry": "R_PCA_P03",
+         "range": [ 228741, 186 ]
+      }, {
+         "geometry": "L_Eye_Arteries",
+         "range": [ 228927, 7575 ]
+      }, {
+         "geometry": "R_Eye_Arteries",
+         "range": [ 236502, 7575 ]
+      } ],
+      "indices": "bin/f_circulatory/blinn1_p1_indices.utf8",
+      "material": "blinn1_p1",
+      "numIndices": 244077,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   }, {
+      "attribs": "bin/f_circulatory/F_Circulatory_Textured_20th_blinn2_p1_attribs.utf8",
+      "diffuse_color": [ 0.025287240743637085, 0.020799990743398666, 0.4000000059604645 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Superior_Rectal_Vein",
+         "range": [ 0, 3852 ]
+      }, {
+         "geometry": "R_Superior_Gluteal_Vein",
+         "range": [ 3852, 2067 ]
+      }, {
+         "geometry": "R_Internal_Iliac_Vein",
+         "range": [ 5919, 1104 ]
+      }, {
+         "geometry": "L_Superior_Gluteal_Vein",
+         "range": [ 7023, 2118 ]
+      }, {
+         "geometry": "L_Alveolar_Vein",
+         "range": [ 9141, 2850 ]
+      }, {
+         "geometry": "L_Angular_Vein",
+         "range": [ 11991, 2952 ]
+      }, {
+         "geometry": "L_Deep_Temporal_Vein",
+         "range": [ 14943, 2340 ]
+      }, {
+         "geometry": "L_External_Jugular_Vein",
+         "range": [ 17283, 906 ]
+      }, {
+         "geometry": "L_Facial_Vein",
+         "range": [ 18189, 4530 ]
+      }, {
+         "geometry": "L_Internal_Jugular_Vein",
+         "range": [ 22719, 1665 ]
+      }, {
+         "geometry": "L_Maxillary_Vein",
+         "range": [ 24384, 4407 ]
+      }, {
+         "geometry": "L_Meningeal_Vein",
+         "range": [ 28791, 10761 ]
+      }, {
+         "geometry": "L_Occipital_Vein",
+         "range": [ 39552, 3402 ]
+      }, {
+         "geometry": "L_Ophthalmic_Vein",
+         "range": [ 42954, 5040 ]
+      }, {
+         "geometry": "L_Posterior_Auricular_Vein",
+         "range": [ 47994, 1050 ]
+      }, {
+         "geometry": "L_Retromandibular_Vein",
+         "range": [ 49044, 960 ]
+      }, {
+         "geometry": "L_Superior_Laryngeal_Vein",
+         "range": [ 50004, 198 ]
+      }, {
+         "geometry": "L_Superior_Temporal_Vein",
+         "range": [ 50202, 5028 ]
+      }, {
+         "geometry": "L_Superior_Thyroid_Vein",
+         "range": [ 55230, 750 ]
+      }, {
+         "geometry": "R_Alveolar_Vein",
+         "range": [ 55980, 2850 ]
+      }, {
+         "geometry": "R_Angular_Vein",
+         "range": [ 58830, 2952 ]
+      }, {
+         "geometry": "R_Deep_Temporal_Vein",
+         "range": [ 61782, 2340 ]
+      }, {
+         "geometry": "R_External_Jugular_Vein",
+         "range": [ 64122, 954 ]
+      }, {
+         "geometry": "R_Facial_Vein",
+         "range": [ 65076, 4530 ]
+      }, {
+         "geometry": "R_Internal_Jugular_Vein",
+         "range": [ 69606, 1815 ]
+      }, {
+         "geometry": "R_Maxillary_Vein",
+         "range": [ 71421, 4389 ]
+      }, {
+         "geometry": "R_Meningeal_Vein",
+         "range": [ 75810, 10761 ]
+      }, {
+         "geometry": "R_Occipital_Vein",
+         "range": [ 86571, 3402 ]
+      }, {
+         "geometry": "R_Ophthalmic_Vein",
+         "range": [ 89973, 5040 ]
+      }, {
+         "geometry": "R_Posterior_Auricular_Vein",
+         "range": [ 95013, 1050 ]
+      }, {
+         "geometry": "R_Retromandibular_Vein",
+         "range": [ 96063, 960 ]
+      }, {
+         "geometry": "R_Superior_Laryngeal_Vein",
+         "range": [ 97023, 198 ]
+      }, {
+         "geometry": "R_Superior_Temporal_Vein",
+         "range": [ 97221, 5028 ]
+      }, {
+         "geometry": "R_Superior_Thyroid_Vein",
+         "range": [ 102249, 750 ]
+      }, {
+         "geometry": "Anterior_Medial_Vein",
+         "range": [ 102999, 414 ]
+      }, {
+         "geometry": "Posterior_Spinal_Vein",
+         "range": [ 103413, 708 ]
+      }, {
+         "geometry": "Cavernous_Sinus",
+         "range": [ 104121, 462 ]
+      }, {
+         "geometry": "Intercavernous_Sinus",
+         "range": [ 104583, 552 ]
+      }, {
+         "geometry": "Cerebral_Veins",
+         "range": [ 105135, 70806 ]
+      }, {
+         "geometry": "Superior_Petrosal_Sinus",
+         "range": [ 175941, 420 ]
+      }, {
+         "geometry": "Sigmoid_Sinus",
+         "range": [ 176361, 1128 ]
+      }, {
+         "geometry": "Superior_Sagittal_Sinus",
+         "range": [ 177489, 3627 ]
+      }, {
+         "geometry": "Straight_Sinus",
+         "range": [ 181116, 876 ]
+      }, {
+         "geometry": "Transverse_Sinus",
+         "range": [ 181992, 1710 ]
+      }, {
+         "geometry": "L_Eye_Veins",
+         "range": [ 183702, 9183 ]
+      }, {
+         "geometry": "R_Eye_Veins",
+         "range": [ 192885, 9183 ]
+      } ],
+      "indices": "bin/f_circulatory/F_Circulatory_Textured_20th_blinn2_p1_indices.utf8",
+      "material": "F_Circulatory_Textured_20th_blinn2_p1",
+      "numIndices": 202068,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   } ]
+}

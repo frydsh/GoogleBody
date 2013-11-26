@@ -1,0 +1,108 @@
+{
+   "draw_groups": [ {
+      "attribs": "bin/f_skin/f_skin_Head_SG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "female_lacrimal",
+         "range": [ 0, 2160 ]
+      }, {
+         "geometry": "body_1",
+         "range": [ 2160, 12192 ]
+      } ],
+      "indices": "bin/f_skin/f_skin_Head_SG1_indices.utf8",
+      "material": "f_skin_Head_SG1",
+      "numIndices": 14352,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/F_Skin_Head.jpg"
+   }, {
+      "attribs": "bin/f_skin/Eye_SG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "female_eye",
+         "range": [ 0, 8064 ]
+      }, {
+         "geometry": "female_pupil",
+         "range": [ 8064, 2016 ]
+      } ],
+      "indices": "bin/f_skin/Eye_SG1_indices.utf8",
+      "material": "Eye_SG1",
+      "numIndices": 10080,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/f_skin_iris.jpg"
+   }, {
+      "attribs": "bin/f_skin/pupil1_attribs.utf8",
+      "diffuse_color": [ 0.0, 0.0, 0.0 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Female_eyeLashes",
+         "range": [ 0, 1890 ]
+      } ],
+      "indices": "bin/f_skin/pupil1_indices.utf8",
+      "material": "pupil1",
+      "numIndices": 1890,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   }, {
+      "attribs": "bin/f_skin/hair_strandsSG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Female_hair_strands",
+         "range": [ 0, 17304 ]
+      } ],
+      "indices": "bin/f_skin/hair_strandsSG1_indices.utf8",
+      "material": "hair_strandsSG1",
+      "numIndices": 17304,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/f_skin_hair_strands.jpg"
+   }, {
+      "attribs": "bin/f_skin/hair_base_SG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "female_hair_base",
+         "range": [ 0, 8904 ]
+      } ],
+      "indices": "bin/f_skin/hair_base_SG1_indices.utf8",
+      "material": "hair_base_SG1",
+      "numIndices": 8904,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/f_skin_hair_base.jpg"
+   }, {
+      "attribs": "bin/f_skin/Female_Repro_SG4_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Lactiferous_Duct",
+         "range": [ 0, 104184 ]
+      }, {
+         "geometry": "Gland_Lobules",
+         "range": [ 104184, 42936 ]
+      } ],
+      "indices": "bin/f_skin/Female_Repro_SG4_indices.utf8",
+      "material": "Female_Repro_SG4",
+      "numIndices": 147120,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_f_repro.jpg"
+   }, {
+      "attribs": "bin/f_skin/f_skin_Body_SG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "body_0",
+         "range": [ 0, 31890 ]
+      } ],
+      "indices": "bin/f_skin/f_skin_Body_SG1_indices.utf8",
+      "material": "f_skin_Body_SG1",
+      "numIndices": 31890,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/F_Skin_Body.jpg"
+   }, {
+      "attribs": "bin/f_skin/clothes1_attribs.utf8",
+      "diffuse_color": [ 0.11999999731779099, 0.18400000035762787, 0.29600000381469727 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "female_clothes",
+         "range": [ 0, 10248 ]
+      } ],
+      "indices": "bin/f_skin/clothes1_indices.utf8",
+      "material": "clothes1",
+      "numIndices": 10248,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   } ]
+}

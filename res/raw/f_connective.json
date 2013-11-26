@@ -1,0 +1,1305 @@
+{
+   "draw_groups": [ {
+      "attribs": "bin/f_connective/lambert2_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Elbow_Capsule",
+         "range": [ 0, 4911 ]
+      }, {
+         "geometry": "R_Olecranon_Bursa",
+         "range": [ 4911, 1434 ]
+      }, {
+         "geometry": "R_Annular_Ligament",
+         "range": [ 6345, 2667 ]
+      }, {
+         "geometry": "R_Anterior_Radiocollateral_Ligament",
+         "range": [ 9012, 3036 ]
+      }, {
+         "geometry": "R_Oblique_Bandetral_Ligament",
+         "range": [ 12048, 924 ]
+      }, {
+         "geometry": "R_Oblique_Cord",
+         "range": [ 12972, 624 ]
+      }, {
+         "geometry": "R_Posterior_Radiocollateral_Ligament",
+         "range": [ 13596, 3201 ]
+      }, {
+         "geometry": "R_Ulnar_Collateral_Ligament_Anterior",
+         "range": [ 16797, 3180 ]
+      }, {
+         "geometry": "R_Ulnar_Collateral_Ligament_Posterior",
+         "range": [ 19977, 2964 ]
+      }, {
+         "geometry": "R_Acromioclavicular_Ligament",
+         "range": [ 22941, 828 ]
+      }, {
+         "geometry": "R_Capsular_Ligament",
+         "range": [ 23769, 2952 ]
+      }, {
+         "geometry": "R_Conoid_Ligament",
+         "range": [ 26721, 750 ]
+      }, {
+         "geometry": "R_Coracoacromial_Ligament",
+         "range": [ 27471, 1266 ]
+      }, {
+         "geometry": "R_Coracohumeral_Ligament",
+         "range": [ 28737, 990 ]
+      }, {
+         "geometry": "R_Coracoclavicular_bursa",
+         "range": [ 29727, 948 ]
+      }, {
+         "geometry": "R_Glenohumeral_Ligament",
+         "range": [ 30675, 2400 ]
+      }, {
+         "geometry": "R_Infraspinatus_Bursa",
+         "range": [ 33075, 1488 ]
+      }, {
+         "geometry": "R_Inferior_Coracoid_Bursa",
+         "range": [ 34563, 876 ]
+      }, {
+         "geometry": "R_Intertubercular_Tendon_Sheath",
+         "range": [ 35439, 1080 ]
+      }, {
+         "geometry": "R_Subscapular_Bursa",
+         "range": [ 36519, 1854 ]
+      }, {
+         "geometry": "R_Superior_Transverse_Ligament",
+         "range": [ 38373, 588 ]
+      }, {
+         "geometry": "R_Supra_Acromion_Bursa",
+         "range": [ 38961, 1194 ]
+      }, {
+         "geometry": "R_Transverse_Humeral_Ligament",
+         "range": [ 40155, 876 ]
+      }, {
+         "geometry": "R_Trapezoid_Ligament",
+         "range": [ 41031, 720 ]
+      }, {
+         "geometry": "R_Subdeltoid_Bursa",
+         "range": [ 41751, 4236 ]
+      }, {
+         "geometry": "R_Articular_Disc",
+         "range": [ 45987, 1080 ]
+      }, {
+         "geometry": "R_Capitohamate_Ligament",
+         "range": [ 47067, 240 ]
+      }, {
+         "geometry": "R_Capitotrapezial_Ligament",
+         "range": [ 47307, 444 ]
+      }, {
+         "geometry": "R_Capsule_Thumb",
+         "range": [ 47751, 2112 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_1",
+         "range": [ 49863, 480 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_2",
+         "range": [ 50343, 576 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_3",
+         "range": [ 50919, 528 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_4",
+         "range": [ 51447, 540 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_5",
+         "range": [ 51987, 480 ]
+      }, {
+         "geometry": "R_Medial_JointCapsule_2",
+         "range": [ 52467, 480 ]
+      }, {
+         "geometry": "R_Medial_JointCapsule_3",
+         "range": [ 52947, 432 ]
+      }, {
+         "geometry": "R_Medial_JointCapsule_4",
+         "range": [ 53379, 510 ]
+      }, {
+         "geometry": "R_Medial_JointCapsule_5",
+         "range": [ 53889, 432 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_1",
+         "range": [ 54321, 360 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_2",
+         "range": [ 54681, 480 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_3",
+         "range": [ 55161, 420 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_4",
+         "range": [ 55581, 480 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_5",
+         "range": [ 56061, 408 ]
+      }, {
+         "geometry": "R_Dorsal_Radiocarpal_Ligament",
+         "range": [ 56469, 1128 ]
+      }, {
+         "geometry": "R_Dorsal_Radioulnar_Ligament_1",
+         "range": [ 57597, 612 ]
+      }, {
+         "geometry": "R_Dorsal_Radioulnar_Ligament_2",
+         "range": [ 58209, 516 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_1",
+         "range": [ 58725, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_2",
+         "range": [ 58989, 300 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_3",
+         "range": [ 59289, 228 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_4",
+         "range": [ 59517, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_5",
+         "range": [ 59781, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_6",
+         "range": [ 60045, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_7",
+         "range": [ 60309, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_8",
+         "range": [ 60573, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_9",
+         "range": [ 60837, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_10",
+         "range": [ 61101, 492 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_11",
+         "range": [ 61593, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_12",
+         "range": [ 61857, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_13",
+         "range": [ 62121, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Carpometacarpal_Ligament_14",
+         "range": [ 62385, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_1",
+         "range": [ 62649, 768 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_2",
+         "range": [ 63417, 420 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_3",
+         "range": [ 63837, 300 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_4",
+         "range": [ 64137, 264 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_5",
+         "range": [ 64401, 444 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_6",
+         "range": [ 64845, 372 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_7",
+         "range": [ 65217, 480 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_8",
+         "range": [ 65697, 726 ]
+      }, {
+         "geometry": "R_Dorsal_Intercarpal_Ligament_9",
+         "range": [ 66423, 612 ]
+      }, {
+         "geometry": "R_Palmar_Metacarpal_Ligament_1",
+         "range": [ 67035, 300 ]
+      }, {
+         "geometry": "R_Palmar_Metacarpal_Ligament_2",
+         "range": [ 67335, 468 ]
+      }, {
+         "geometry": "R_Palmar_Metacarpal_Ligament_3",
+         "range": [ 67803, 468 ]
+      }, {
+         "geometry": "R_Palmar_Metacarpal_Ligament_4",
+         "range": [ 68271, 372 ]
+      }, {
+         "geometry": "R_Interosseous_Intercarpal_Ligament_1",
+         "range": [ 68643, 372 ]
+      }, {
+         "geometry": "R_Interosseous_Intercarpal_Ligament_2",
+         "range": [ 69015, 480 ]
+      }, {
+         "geometry": "R_Medial_Pisotriquetrar_Ligament",
+         "range": [ 69495, 468 ]
+      }, {
+         "geometry": "R_Palmar_Carpometacarpal_Ligament_1",
+         "range": [ 69963, 288 ]
+      }, {
+         "geometry": "R_Palmar_Carpometacarpal_Ligament_2",
+         "range": [ 70251, 288 ]
+      }, {
+         "geometry": "R_Palmar_Carpometacarpal_Ligament_4",
+         "range": [ 70539, 456 ]
+      }, {
+         "geometry": "R_Palmar_Carpometacarpal_Ligament_3",
+         "range": [ 70995, 204 ]
+      }, {
+         "geometry": "R_Palmar_Carpometacarpal_Ligament_5",
+         "range": [ 71199, 288 ]
+      }, {
+         "geometry": "R_Palmar_Carpometacarpal_Ligament_6",
+         "range": [ 71487, 444 ]
+      }, {
+         "geometry": "R_Palmar_Ulnolunate_Ligament",
+         "range": [ 71931, 1368 ]
+      }, {
+         "geometry": "R_Pisohamate_Ligament",
+         "range": [ 73299, 336 ]
+      }, {
+         "geometry": "R_Pisometacarpal_Ligament",
+         "range": [ 73635, 492 ]
+      }, {
+         "geometry": "R_Radial_Collateralcarpal_Ligament",
+         "range": [ 74127, 372 ]
+      }, {
+         "geometry": "R_Radialarcuate_Ligament",
+         "range": [ 74499, 744 ]
+      }, {
+         "geometry": "R_Radiolunate_Ligament_1",
+         "range": [ 75243, 408 ]
+      }, {
+         "geometry": "R_Radiolunate_Ligament_2",
+         "range": [ 75651, 432 ]
+      }, {
+         "geometry": "R_Radioscaphocapitate_Ligament",
+         "range": [ 76083, 852 ]
+      }, {
+         "geometry": "R_Radioscapholunate_Ligament",
+         "range": [ 76935, 696 ]
+      }, {
+         "geometry": "R_Scaphotrapezial_Ligament_1",
+         "range": [ 77631, 372 ]
+      }, {
+         "geometry": "R_Scaphotrapezial_Ligament_2",
+         "range": [ 78003, 372 ]
+      }, {
+         "geometry": "R_Scaphotrapezial_Ligament_3",
+         "range": [ 78375, 372 ]
+      }, {
+         "geometry": "R_Trapeziometacarpal_Ligament",
+         "range": [ 78747, 1116 ]
+      }, {
+         "geometry": "R_Ulnararcuate_Ligament",
+         "range": [ 79863, 444 ]
+      }, {
+         "geometry": "R_Ulnocarpal_Ligament_1",
+         "range": [ 80307, 612 ]
+      }, {
+         "geometry": "R_Ulnocarpal_Ligament_2",
+         "range": [ 80919, 444 ]
+      }, {
+         "geometry": "R_Volar_Radioulnar_Ligament",
+         "range": [ 81363, 612 ]
+      }, {
+         "geometry": "R_Retinaculum",
+         "range": [ 81975, 1188 ]
+      }, {
+         "geometry": "R_Deep_Transverse_Metacarpal_Ligament_1",
+         "range": [ 83163, 516 ]
+      }, {
+         "geometry": "R_Deep_Transverse_Metacarpal_Ligament_2",
+         "range": [ 83679, 516 ]
+      }, {
+         "geometry": "R_Deep_Transverse_Metacarpal_Ligament_3",
+         "range": [ 84195, 456 ]
+      }, {
+         "geometry": "L_Elbow_Capsule",
+         "range": [ 84651, 4911 ]
+      }, {
+         "geometry": "L_Olecranon_Bursa",
+         "range": [ 89562, 1434 ]
+      }, {
+         "geometry": "L_Annular_Ligament",
+         "range": [ 90996, 2667 ]
+      }, {
+         "geometry": "L_Anterior_Radiocollateral_Ligament",
+         "range": [ 93663, 3036 ]
+      }, {
+         "geometry": "L_Oblique_Bandetral_Ligament",
+         "range": [ 96699, 924 ]
+      }, {
+         "geometry": "L_Oblique_Cord",
+         "range": [ 97623, 624 ]
+      }, {
+         "geometry": "L_Posterior_Radiocollateral_Ligament",
+         "range": [ 98247, 3201 ]
+      }, {
+         "geometry": "L_Ulnar_Collateral_Ligament_Anterior",
+         "range": [ 101448, 3180 ]
+      }, {
+         "geometry": "L_Ulnar_Collateral_Ligament_Posterior",
+         "range": [ 104628, 2964 ]
+      }, {
+         "geometry": "L_Acromioclavicular_Ligament",
+         "range": [ 107592, 828 ]
+      }, {
+         "geometry": "L_Capsular_Ligament",
+         "range": [ 108420, 2952 ]
+      }, {
+         "geometry": "L_Conoid_Ligament",
+         "range": [ 111372, 750 ]
+      }, {
+         "geometry": "L_Coracoacromial_Ligament",
+         "range": [ 112122, 1266 ]
+      }, {
+         "geometry": "L_Coracohumeral_Ligament",
+         "range": [ 113388, 990 ]
+      }, {
+         "geometry": "L_Coracoclavicular_bursa",
+         "range": [ 114378, 948 ]
+      }, {
+         "geometry": "L_Glenohumeral_Ligament",
+         "range": [ 115326, 2400 ]
+      }, {
+         "geometry": "L_Infraspinatus_Bursa",
+         "range": [ 117726, 1488 ]
+      }, {
+         "geometry": "L_Inferior_Coracoid_Bursa",
+         "range": [ 119214, 876 ]
+      }, {
+         "geometry": "L_Intertubercular_Tendon_Sheath",
+         "range": [ 120090, 1080 ]
+      }, {
+         "geometry": "L_Subscapular_Bursa",
+         "range": [ 121170, 1854 ]
+      }, {
+         "geometry": "L_Superior_Transverse_Ligament",
+         "range": [ 123024, 588 ]
+      }, {
+         "geometry": "L_Supra_Acromion_Bursa",
+         "range": [ 123612, 1194 ]
+      }, {
+         "geometry": "L_Transverse_Humeral_Ligament",
+         "range": [ 124806, 876 ]
+      }, {
+         "geometry": "L_Trapezoid_Ligament",
+         "range": [ 125682, 720 ]
+      }, {
+         "geometry": "L_Subdeltoid_Bursa",
+         "range": [ 126402, 4236 ]
+      }, {
+         "geometry": "L_Articular_Disc",
+         "range": [ 130638, 1080 ]
+      }, {
+         "geometry": "L_Capitohamate_Ligament",
+         "range": [ 131718, 240 ]
+      }, {
+         "geometry": "L_Capitotrapezial_Ligament",
+         "range": [ 131958, 444 ]
+      }, {
+         "geometry": "L_Capsule_Thumb",
+         "range": [ 132402, 2112 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_1",
+         "range": [ 134514, 480 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_2",
+         "range": [ 134994, 576 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_3",
+         "range": [ 135570, 528 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_4",
+         "range": [ 136098, 540 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_5",
+         "range": [ 136638, 480 ]
+      }, {
+         "geometry": "L_Medial_JointCapsule_2",
+         "range": [ 137118, 480 ]
+      }, {
+         "geometry": "L_Medial_JointCapsule_3",
+         "range": [ 137598, 432 ]
+      }, {
+         "geometry": "L_Medial_JointCapsule_4",
+         "range": [ 138030, 510 ]
+      }, {
+         "geometry": "L_Medial_JointCapsule_5",
+         "range": [ 138540, 432 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_1",
+         "range": [ 138972, 360 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_2",
+         "range": [ 139332, 480 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_3",
+         "range": [ 139812, 420 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_4",
+         "range": [ 140232, 480 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_5",
+         "range": [ 140712, 408 ]
+      }, {
+         "geometry": "L_Dorsal_Radiocarpal_Ligament",
+         "range": [ 141120, 1128 ]
+      }, {
+         "geometry": "L_Dorsal_Radioulnar_Ligament_1",
+         "range": [ 142248, 612 ]
+      }, {
+         "geometry": "L_Dorsal_Radioulnar_Ligament_2",
+         "range": [ 142860, 516 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_1",
+         "range": [ 143376, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_2",
+         "range": [ 143640, 300 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_3",
+         "range": [ 143940, 228 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_4",
+         "range": [ 144168, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_5",
+         "range": [ 144432, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_6",
+         "range": [ 144696, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_7",
+         "range": [ 144960, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_8",
+         "range": [ 145224, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_9",
+         "range": [ 145488, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_10",
+         "range": [ 145752, 492 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_11",
+         "range": [ 146244, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_12",
+         "range": [ 146508, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_13",
+         "range": [ 146772, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Carpometacarpal_Ligament_14",
+         "range": [ 147036, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_1",
+         "range": [ 147300, 768 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_2",
+         "range": [ 148068, 420 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_3",
+         "range": [ 148488, 300 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_4",
+         "range": [ 148788, 264 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_5",
+         "range": [ 149052, 444 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_6",
+         "range": [ 149496, 372 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_7",
+         "range": [ 149868, 480 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_8",
+         "range": [ 150348, 726 ]
+      }, {
+         "geometry": "L_Dorsal_Intercarpal_Ligament_9",
+         "range": [ 151074, 612 ]
+      }, {
+         "geometry": "L_Palmar_Metacarpal_Ligament_1",
+         "range": [ 151686, 300 ]
+      }, {
+         "geometry": "L_Palmar_Metacarpal_Ligament_2",
+         "range": [ 151986, 468 ]
+      }, {
+         "geometry": "L_Palmar_Metacarpal_Ligament_3",
+         "range": [ 152454, 468 ]
+      }, {
+         "geometry": "L_Palmar_Metacarpal_Ligament_4",
+         "range": [ 152922, 372 ]
+      }, {
+         "geometry": "L_Interosseous_Intercarpal_Ligament_1",
+         "range": [ 153294, 372 ]
+      }, {
+         "geometry": "L_Interosseous_Intercarpal_Ligament_2",
+         "range": [ 153666, 480 ]
+      }, {
+         "geometry": "L_Medial_Pisotriquetrar_Ligament",
+         "range": [ 154146, 468 ]
+      }, {
+         "geometry": "L_Palmar_Carpometacarpal_Ligament_1",
+         "range": [ 154614, 288 ]
+      }, {
+         "geometry": "L_Palmar_Carpometacarpal_Ligament_2",
+         "range": [ 154902, 288 ]
+      }, {
+         "geometry": "L_Palmar_Carpometacarpal_Ligament_4",
+         "range": [ 155190, 456 ]
+      }, {
+         "geometry": "L_Palmar_Carpometacarpal_Ligament_3",
+         "range": [ 155646, 204 ]
+      }, {
+         "geometry": "L_Palmar_Carpometacarpal_Ligament_5",
+         "range": [ 155850, 288 ]
+      }, {
+         "geometry": "L_Palmar_Carpometacarpal_Ligament_6",
+         "range": [ 156138, 444 ]
+      }, {
+         "geometry": "L_Palmar_Ulnolunate_Ligament",
+         "range": [ 156582, 1368 ]
+      }, {
+         "geometry": "L_Pisohamate_Ligament",
+         "range": [ 157950, 336 ]
+      }, {
+         "geometry": "L_Pisometacarpal_Ligament",
+         "range": [ 158286, 492 ]
+      }, {
+         "geometry": "L_Radial_Collateralcarpal_Ligament",
+         "range": [ 158778, 372 ]
+      }, {
+         "geometry": "L_Radialarcuate_Ligament",
+         "range": [ 159150, 744 ]
+      }, {
+         "geometry": "L_Radiolunate_Ligament_1",
+         "range": [ 159894, 408 ]
+      }, {
+         "geometry": "L_Radiolunate_Ligament_2",
+         "range": [ 160302, 432 ]
+      }, {
+         "geometry": "L_Radioscaphocapitate_Ligament",
+         "range": [ 160734, 852 ]
+      }, {
+         "geometry": "L_Radioscapholunate_Ligament",
+         "range": [ 161586, 696 ]
+      }, {
+         "geometry": "L_Scaphotrapezial_Ligament_1",
+         "range": [ 162282, 372 ]
+      }, {
+         "geometry": "L_Scaphotrapezial_Ligament_2",
+         "range": [ 162654, 372 ]
+      }, {
+         "geometry": "L_Scaphotrapezial_Ligament_3",
+         "range": [ 163026, 372 ]
+      }, {
+         "geometry": "L_Trapeziometacarpal_Ligament",
+         "range": [ 163398, 1116 ]
+      }, {
+         "geometry": "L_Ulnararcuate_Ligament",
+         "range": [ 164514, 444 ]
+      }, {
+         "geometry": "L_Ulnocarpal_Ligament_1",
+         "range": [ 164958, 612 ]
+      }, {
+         "geometry": "L_Ulnocarpal_Ligament_2",
+         "range": [ 165570, 444 ]
+      }, {
+         "geometry": "L_Volar_Radioulnar_Ligament",
+         "range": [ 166014, 612 ]
+      }, {
+         "geometry": "L_Retinaculum",
+         "range": [ 166626, 1188 ]
+      }, {
+         "geometry": "L_Deep_Transverse_Metacarpal_Ligament_1",
+         "range": [ 167814, 516 ]
+      }, {
+         "geometry": "L_Deep_Transverse_Metacarpal_Ligament_2",
+         "range": [ 168330, 516 ]
+      }, {
+         "geometry": "L_Deep_Transverse_Metacarpal_Ligament_3",
+         "range": [ 168846, 456 ]
+      } ],
+      "indices": "bin/f_connective/lambert2_indices.utf8",
+      "material": "lambert2",
+      "numIndices": 169302,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/connective_shoulder_elbow_hand.jpg"
+   }, {
+      "attribs": "bin/f_connective/lambert4_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Deep_Infrapatellar_Bursa",
+         "range": [ 0, 1224 ]
+      }, {
+         "geometry": "R_Subcutaneous_Prepatellar_Bursa",
+         "range": [ 1224, 1800 ]
+      }, {
+         "geometry": "R_Iliotibial_Tract_Bursa",
+         "range": [ 3024, 882 ]
+      }, {
+         "geometry": "R_Anserine_Bursa",
+         "range": [ 3906, 1476 ]
+      }, {
+         "geometry": "R_Semimembranosus_Bursa",
+         "range": [ 5382, 1200 ]
+      }, {
+         "geometry": "R_Medial_Gastrocnemius_Bursa",
+         "range": [ 6582, 1344 ]
+      }, {
+         "geometry": "R_Lateral_Gastrocnemius_Bursa",
+         "range": [ 7926, 1524 ]
+      }, {
+         "geometry": "R_Fibular_Collateral_Bursa",
+         "range": [ 9450, 1092 ]
+      }, {
+         "geometry": "R_Biceps_Femoris_Bursa",
+         "range": [ 10542, 1104 ]
+      }, {
+         "geometry": "L_Deep_Infrapatellar_Bursa",
+         "range": [ 11646, 1224 ]
+      }, {
+         "geometry": "L_Subcutaneous_Prepatellar_Bursa",
+         "range": [ 12870, 1800 ]
+      }, {
+         "geometry": "L_Iliotibial_Tract_Bursa",
+         "range": [ 14670, 882 ]
+      }, {
+         "geometry": "L_Anserine_Bursa",
+         "range": [ 15552, 1476 ]
+      }, {
+         "geometry": "L_Semimembranosus_Bursa",
+         "range": [ 17028, 1200 ]
+      }, {
+         "geometry": "L_Medial_Gastrocnemius_Bursa",
+         "range": [ 18228, 1344 ]
+      }, {
+         "geometry": "L_Lateral_Gastrocnemius_Bursa",
+         "range": [ 19572, 1524 ]
+      }, {
+         "geometry": "L_Fibular_Collateral_Bursa",
+         "range": [ 21096, 1092 ]
+      }, {
+         "geometry": "L_Biceps_Femoris_Bursa",
+         "range": [ 22188, 1104 ]
+      } ],
+      "indices": "bin/f_connective/lambert4_indices.utf8",
+      "material": "lambert4",
+      "numIndices": 23292,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/connective_Bursa.jpg"
+   }, {
+      "attribs": "bin/f_connective/lambert6_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Posterior_Tibiotalar_Ligament",
+         "range": [ 0, 384 ]
+      }, {
+         "geometry": "R_Dorsal_Metatarsal_Ligament_1",
+         "range": [ 384, 264 ]
+      }, {
+         "geometry": "R_Deep_Transverse_Metatarsal_Ligament_4",
+         "range": [ 648, 420 ]
+      }, {
+         "geometry": "R_Deep_Transverse_Metatarsal_Ligament_3",
+         "range": [ 1068, 420 ]
+      }, {
+         "geometry": "R_Deep_Transverse_Metatarsal_Ligament_2",
+         "range": [ 1488, 420 ]
+      }, {
+         "geometry": "R_Deep_Transverse_Metatarsal_Ligament_1",
+         "range": [ 1908, 420 ]
+      }, {
+         "geometry": "R_Posterior_Tibiofibular_Ligament",
+         "range": [ 2328, 288 ]
+      }, {
+         "geometry": "R_Dorsal_Tarsometatarsal_Ligament_2",
+         "range": [ 2616, 144 ]
+      }, {
+         "geometry": "R_Plantar_Ligament_Plate_2",
+         "range": [ 2760, 336 ]
+      }, {
+         "geometry": "R_Dorsal_Calcaneocuboid_Ligament",
+         "range": [ 3096, 324 ]
+      }, {
+         "geometry": "R_Plantar_Ligament_Plate_3",
+         "range": [ 3420, 336 ]
+      }, {
+         "geometry": "R_Dorsal_Cuneonavicular_Ligament_3",
+         "range": [ 3756, 252 ]
+      }, {
+         "geometry": "R_Plantar_Ligament_Plate_1",
+         "range": [ 4008, 336 ]
+      }, {
+         "geometry": "R_Calcaneofibular_Ligament",
+         "range": [ 4344, 432 ]
+      }, {
+         "geometry": "R_Plantar_Metatarsal_Ligament_2",
+         "range": [ 4776, 312 ]
+      }, {
+         "geometry": "R_Dorsal_Cuneonavicular_Ligament_2",
+         "range": [ 5088, 360 ]
+      }, {
+         "geometry": "R_Tibeonavicular_Ligament",
+         "range": [ 5448, 354 ]
+      }, {
+         "geometry": "R_Dorsal_Tarsometatarsal_Ligament_4",
+         "range": [ 5802, 276 ]
+      }, {
+         "geometry": "R_Plantar_Metatarsal_Ligament_4",
+         "range": [ 6078, 270 ]
+      }, {
+         "geometry": "R_Plantar_Ligament_Plate_5",
+         "range": [ 6348, 336 ]
+      }, {
+         "geometry": "R_Dorsal_Intercuneiform_Ligament_2",
+         "range": [ 6684, 264 ]
+      }, {
+         "geometry": "R_Plantar_Metatarsal_Ligament_1",
+         "range": [ 6948, 216 ]
+      }, {
+         "geometry": "R_Dorsal_Talonavicular_Ligament",
+         "range": [ 7164, 312 ]
+      }, {
+         "geometry": "R_Dorsal_Tarsometatarsal_Ligament_1",
+         "range": [ 7476, 330 ]
+      }, {
+         "geometry": "R_Bifurcate_Ligament",
+         "range": [ 7806, 660 ]
+      }, {
+         "geometry": "R_Dorsal_Cuneocuboid_Ligament",
+         "range": [ 8466, 1080 ]
+      }, {
+         "geometry": "R_Dorsal_Cuboideavicular_Ligament",
+         "range": [ 9546, 600 ]
+      }, {
+         "geometry": "R_Dorsal_Tarsometatarsal_Ligament_3",
+         "range": [ 10146, 216 ]
+      }, {
+         "geometry": "R_Dorsal_Metatarsal_Ligament_3",
+         "range": [ 10362, 288 ]
+      }, {
+         "geometry": "R_Anterior_Tibiofibular_Ligament",
+         "range": [ 10650, 333 ]
+      }, {
+         "geometry": "R_Anterior_Talofibular_Ligament",
+         "range": [ 10983, 537 ]
+      }, {
+         "geometry": "R_Dorsal_Intercuneiform_Ligament_1",
+         "range": [ 11520, 216 ]
+      }, {
+         "geometry": "R_Tibiocalcaneal_Ligament",
+         "range": [ 11736, 576 ]
+      }, {
+         "geometry": "R_Dorsal_Cuneonavicular_Ligament_1",
+         "range": [ 12312, 180 ]
+      }, {
+         "geometry": "R_Plantar_Metatarsal_Ligament_3",
+         "range": [ 12492, 216 ]
+      }, {
+         "geometry": "R_Anterior_Tibiotalar_Ligament",
+         "range": [ 12708, 210 ]
+      }, {
+         "geometry": "R_Posterior_Talocalcaneal_Ligament",
+         "range": [ 12918, 321 ]
+      }, {
+         "geometry": "R_Plantar_Ligament_Plate_6",
+         "range": [ 13239, 336 ]
+      }, {
+         "geometry": "R_Posterior_Talofibular_Ligament",
+         "range": [ 13575, 396 ]
+      }, {
+         "geometry": "R_Lateral_Talocalcaneal_Ligament",
+         "range": [ 13971, 168 ]
+      }, {
+         "geometry": "R_Dorsal_Tarsometatarsal_Ligament_5",
+         "range": [ 14139, 501 ]
+      }, {
+         "geometry": "R_Dorsal_Cuneonavicular_Ligament_4",
+         "range": [ 14640, 252 ]
+      }, {
+         "geometry": "R_Medial_Talocalcaneal_Ligament",
+         "range": [ 14892, 408 ]
+      }, {
+         "geometry": "R_Dorsal_Metatarsal_Ligament_2",
+         "range": [ 15300, 264 ]
+      }, {
+         "geometry": "R_Long_Plantar_Ligament",
+         "range": [ 15564, 2439 ]
+      }, {
+         "geometry": "R_Superior_Peroneal_Retinaculum",
+         "range": [ 18003, 540 ]
+      }, {
+         "geometry": "R_Plantar_Cuboidenavicular_Ligament",
+         "range": [ 18543, 324 ]
+      }, {
+         "geometry": "R_Short_Plantar_Ligament",
+         "range": [ 18867, 360 ]
+      }, {
+         "geometry": "R_Inferior_Peroneal_Retinaculum",
+         "range": [ 19227, 378 ]
+      }, {
+         "geometry": "R_Inferoir_Extensor_Retinaculum",
+         "range": [ 19605, 1572 ]
+      }, {
+         "geometry": "R_Superior_Extensor_Retinaculum",
+         "range": [ 21177, 504 ]
+      }, {
+         "geometry": "R_Flexor_Retinaculum",
+         "range": [ 21681, 1152 ]
+      }, {
+         "geometry": "R_Plantar_Aponeurosis",
+         "range": [ 22833, 4686 ]
+      }, {
+         "geometry": "R_Plantar_Calcaneonavicular_Ligament",
+         "range": [ 27519, 816 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_1",
+         "range": [ 28335, 360 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_2",
+         "range": [ 28695, 432 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_3",
+         "range": [ 29127, 408 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_4",
+         "range": [ 29535, 312 ]
+      }, {
+         "geometry": "R_Proximal_JointCapsule_5",
+         "range": [ 29847, 390 ]
+      }, {
+         "geometry": "R_Medial_JointCapsule_5",
+         "range": [ 30237, 288 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_5",
+         "range": [ 30525, 264 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_4",
+         "range": [ 30789, 264 ]
+      }, {
+         "geometry": "R_Medial_JointCapsule_4",
+         "range": [ 31053, 252 ]
+      }, {
+         "geometry": "R_Medial_JointCapsule_3",
+         "range": [ 31305, 384 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_3",
+         "range": [ 31689, 264 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_2",
+         "range": [ 31953, 264 ]
+      }, {
+         "geometry": "R_Medial_JointCapsule_2",
+         "range": [ 32217, 252 ]
+      }, {
+         "geometry": "R_Distal_JointCapsule_1",
+         "range": [ 32469, 216 ]
+      }, {
+         "geometry": "L_Posterior_Tibiotalar_Ligament",
+         "range": [ 32685, 384 ]
+      }, {
+         "geometry": "L_Dorsal_Metatarsal_Ligament_1",
+         "range": [ 33069, 264 ]
+      }, {
+         "geometry": "L_Deep_Transverse_Metatarsal_Ligament_4",
+         "range": [ 33333, 420 ]
+      }, {
+         "geometry": "L_Deep_Transverse_Metatarsal_Ligament_3",
+         "range": [ 33753, 420 ]
+      }, {
+         "geometry": "L_Deep_Transverse_Metatarsal_Ligament_2",
+         "range": [ 34173, 420 ]
+      }, {
+         "geometry": "L_Deep_Transverse_Metatarsal_Ligament_1",
+         "range": [ 34593, 420 ]
+      }, {
+         "geometry": "L_Posterior_Tibiofibular_Ligament",
+         "range": [ 35013, 288 ]
+      }, {
+         "geometry": "L_Dorsal_Tarsometatarsal_Ligament_2",
+         "range": [ 35301, 144 ]
+      }, {
+         "geometry": "L_Plantar_Ligament_Plate_2",
+         "range": [ 35445, 336 ]
+      }, {
+         "geometry": "L_Dorsal_Calcaneocuboid_Ligament",
+         "range": [ 35781, 324 ]
+      }, {
+         "geometry": "L_Plantar_Ligament_Plate_3",
+         "range": [ 36105, 336 ]
+      }, {
+         "geometry": "L_Dorsal_Cuneonavicular_Ligament_3",
+         "range": [ 36441, 252 ]
+      }, {
+         "geometry": "L_Plantar_Ligament_Plate_1",
+         "range": [ 36693, 336 ]
+      }, {
+         "geometry": "L_Calcaneofibular_Ligament",
+         "range": [ 37029, 432 ]
+      }, {
+         "geometry": "L_Plantar_Metatarsal_Ligament_2",
+         "range": [ 37461, 312 ]
+      }, {
+         "geometry": "L_Dorsal_Cuneonavicular_Ligament_2",
+         "range": [ 37773, 360 ]
+      }, {
+         "geometry": "L_Tibeonavicular_Ligament",
+         "range": [ 38133, 354 ]
+      }, {
+         "geometry": "L_Dorsal_Tarsometatarsal_Ligament_4",
+         "range": [ 38487, 276 ]
+      }, {
+         "geometry": "L_Plantar_Metatarsal_Ligament_4",
+         "range": [ 38763, 270 ]
+      }, {
+         "geometry": "L_Plantar_Ligament_Plate_5",
+         "range": [ 39033, 336 ]
+      }, {
+         "geometry": "L_Dorsal_Intercuneiform_Ligament_2",
+         "range": [ 39369, 264 ]
+      }, {
+         "geometry": "L_Plantar_Metatarsal_Ligament_1",
+         "range": [ 39633, 216 ]
+      }, {
+         "geometry": "L_Dorsal_Talonavicular_Ligament",
+         "range": [ 39849, 312 ]
+      }, {
+         "geometry": "L_Dorsal_Tarsometatarsal_Ligament_1",
+         "range": [ 40161, 330 ]
+      }, {
+         "geometry": "L_Bifurcate_Ligament",
+         "range": [ 40491, 660 ]
+      }, {
+         "geometry": "L_Dorsal_Cuneocuboid_Ligament",
+         "range": [ 41151, 1080 ]
+      }, {
+         "geometry": "L_Dorsal_Cuboideavicular_Ligament",
+         "range": [ 42231, 600 ]
+      }, {
+         "geometry": "L_Dorsal_Tarsometatarsal_Ligament_3",
+         "range": [ 42831, 216 ]
+      }, {
+         "geometry": "L_Dorsal_Metatarsal_Ligament_3",
+         "range": [ 43047, 288 ]
+      }, {
+         "geometry": "L_Anterior_Tibiofibular_Ligament",
+         "range": [ 43335, 333 ]
+      }, {
+         "geometry": "L_Anterior_Talofibular_Ligament",
+         "range": [ 43668, 537 ]
+      }, {
+         "geometry": "L_Dorsal_Intercuneiform_Ligament_1",
+         "range": [ 44205, 216 ]
+      }, {
+         "geometry": "L_Tibiocalcaneal_Ligament",
+         "range": [ 44421, 576 ]
+      }, {
+         "geometry": "L_Dorsal_Cuneonavicular_Ligament_1",
+         "range": [ 44997, 180 ]
+      }, {
+         "geometry": "L_Plantar_Metatarsal_Ligament_3",
+         "range": [ 45177, 216 ]
+      }, {
+         "geometry": "L_Anterior_Tibiotalar_Ligament",
+         "range": [ 45393, 210 ]
+      }, {
+         "geometry": "L_Posterior_Talocalcaneal_Ligament",
+         "range": [ 45603, 321 ]
+      }, {
+         "geometry": "L_Plantar_Ligament_Plate_6",
+         "range": [ 45924, 336 ]
+      }, {
+         "geometry": "L_Posterior_Talofibular_Ligament",
+         "range": [ 46260, 396 ]
+      }, {
+         "geometry": "L_Lateral_Talocalcaneal_Ligament",
+         "range": [ 46656, 168 ]
+      }, {
+         "geometry": "L_Dorsal_Tarsometatarsal_Ligament_5",
+         "range": [ 46824, 501 ]
+      }, {
+         "geometry": "L_Dorsal_Cuneonavicular_Ligament_4",
+         "range": [ 47325, 252 ]
+      }, {
+         "geometry": "L_Medial_Talocalcaneal_Ligament",
+         "range": [ 47577, 408 ]
+      }, {
+         "geometry": "L_Dorsal_Metatarsal_Ligament_2",
+         "range": [ 47985, 264 ]
+      }, {
+         "geometry": "L_Long_Plantar_Ligament",
+         "range": [ 48249, 2439 ]
+      }, {
+         "geometry": "L_Superior_Peroneal_Retinaculum",
+         "range": [ 50688, 540 ]
+      }, {
+         "geometry": "L_Plantar_Cuboidenavicular_Ligament",
+         "range": [ 51228, 324 ]
+      }, {
+         "geometry": "L_Short_Plantar_Ligament",
+         "range": [ 51552, 360 ]
+      }, {
+         "geometry": "L_Inferior_Peroneal_Retinaculum",
+         "range": [ 51912, 378 ]
+      }, {
+         "geometry": "L_Inferoir_Extensor_Retinaculum",
+         "range": [ 52290, 1572 ]
+      }, {
+         "geometry": "L_Superior_Extensor_Retinaculum",
+         "range": [ 53862, 504 ]
+      }, {
+         "geometry": "L_Flexor_Retinaculum",
+         "range": [ 54366, 1152 ]
+      }, {
+         "geometry": "L_Plantar_Aponeurosis",
+         "range": [ 55518, 4686 ]
+      }, {
+         "geometry": "L_Plantar_Calcaneonavicular_Ligament",
+         "range": [ 60204, 816 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_1",
+         "range": [ 61020, 360 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_2",
+         "range": [ 61380, 432 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_3",
+         "range": [ 61812, 408 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_4",
+         "range": [ 62220, 312 ]
+      }, {
+         "geometry": "L_Proximal_JointCapsule_5",
+         "range": [ 62532, 390 ]
+      }, {
+         "geometry": "L_Medial_JointCapsule_5",
+         "range": [ 62922, 288 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_5",
+         "range": [ 63210, 264 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_4",
+         "range": [ 63474, 264 ]
+      }, {
+         "geometry": "L_Medial_JointCapsule_4",
+         "range": [ 63738, 252 ]
+      }, {
+         "geometry": "L_Medial_JointCapsule_3",
+         "range": [ 63990, 384 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_3",
+         "range": [ 64374, 264 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_2",
+         "range": [ 64638, 264 ]
+      }, {
+         "geometry": "L_Medial_JointCapsule_2",
+         "range": [ 64902, 252 ]
+      }, {
+         "geometry": "L_Distal_JointCapsule_1",
+         "range": [ 65154, 216 ]
+      } ],
+      "indices": "bin/f_connective/lambert6_indices.utf8",
+      "material": "lambert6",
+      "numIndices": 65370,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/connective_foot.jpg"
+   }, {
+      "attribs": "bin/f_connective/lambert7_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_iliolumbar_Ligament",
+         "range": [ 0, 1494 ]
+      }, {
+         "geometry": "R_Lateral_Sacrococcygeal_Ligament",
+         "range": [ 1494, 468 ]
+      }, {
+         "geometry": "R_Anterior_Sacrococcygeal_Ligament",
+         "range": [ 1962, 840 ]
+      }, {
+         "geometry": "R_Sacrospinous_Ligament",
+         "range": [ 2802, 1068 ]
+      }, {
+         "geometry": "R_Sacroiliac_Ligament",
+         "range": [ 3870, 1941 ]
+      }, {
+         "geometry": "R_Sacrotuberous_Ligament",
+         "range": [ 5811, 1383 ]
+      }, {
+         "geometry": "R_Obturator_Membrane",
+         "range": [ 7194, 420 ]
+      }, {
+         "geometry": "R_Round_Ligament",
+         "range": [ 7614, 252 ]
+      }, {
+         "geometry": "L_iliolumbar_Ligament",
+         "range": [ 7866, 1494 ]
+      }, {
+         "geometry": "L_Lateral_Sacrococcygeal_Ligament",
+         "range": [ 9360, 468 ]
+      }, {
+         "geometry": "L_Anterior_Sacrococcygeal_Ligament",
+         "range": [ 9828, 840 ]
+      }, {
+         "geometry": "L_Sacrospinous_Ligament",
+         "range": [ 10668, 1068 ]
+      }, {
+         "geometry": "L_Sacroiliac_Ligament",
+         "range": [ 11736, 1941 ]
+      }, {
+         "geometry": "L_Sacrotuberous_Ligament",
+         "range": [ 13677, 1383 ]
+      }, {
+         "geometry": "L_Obturator_Membrane",
+         "range": [ 15060, 420 ]
+      }, {
+         "geometry": "L_Round_Ligament",
+         "range": [ 15480, 252 ]
+      } ],
+      "indices": "bin/f_connective/lambert7_indices.utf8",
+      "material": "lambert7",
+      "numIndices": 15732,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/connective_hip2.jpg"
+   }, {
+      "attribs": "bin/f_connective/lambert5_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Transverse_Ligament",
+         "range": [ 0, 396 ]
+      }, {
+         "geometry": "R_Tibial_Collateral_Ligament",
+         "range": [ 396, 780 ]
+      }, {
+         "geometry": "R_Posterior_Cruciate_Ligament",
+         "range": [ 1176, 315 ]
+      }, {
+         "geometry": "R_Fibular_Collateral_Ligament",
+         "range": [ 1491, 462 ]
+      }, {
+         "geometry": "R_Anterior_Cruciate_Ligament",
+         "range": [ 1953, 396 ]
+      }, {
+         "geometry": "R_Medial_Miniscus",
+         "range": [ 2349, 2298 ]
+      }, {
+         "geometry": "R_Medial_Patellar_Ligament",
+         "range": [ 4647, 624 ]
+      }, {
+         "geometry": "R_Lateral_Patellar_Ligament",
+         "range": [ 5271, 552 ]
+      }, {
+         "geometry": "R_Arcuate_Popliteal_Ligament",
+         "range": [ 5823, 672 ]
+      }, {
+         "geometry": "R_Lateral_Miniscus",
+         "range": [ 6495, 2634 ]
+      }, {
+         "geometry": "R_Acetubular_Labrum",
+         "range": [ 9129, 1164 ]
+      }, {
+         "geometry": "R_iliofemoral_Ligament",
+         "range": [ 10293, 948 ]
+      }, {
+         "geometry": "R_ishiofemoral_Ligament",
+         "range": [ 11241, 504 ]
+      }, {
+         "geometry": "R_Pubofemoral_Ligament",
+         "range": [ 11745, 360 ]
+      }, {
+         "geometry": "R_Transverse_Acetabular_Ligament",
+         "range": [ 12105, 336 ]
+      }, {
+         "geometry": "R_Zona_Orbicularis",
+         "range": [ 12441, 4308 ]
+      }, {
+         "geometry": "R_Inguinal_Ligament",
+         "range": [ 16749, 1221 ]
+      }, {
+         "geometry": "L_Transverse_Ligament",
+         "range": [ 17970, 396 ]
+      }, {
+         "geometry": "L_Tibial_Collateral_Ligament",
+         "range": [ 18366, 780 ]
+      }, {
+         "geometry": "L_Posterior_Cruciate_Ligament",
+         "range": [ 19146, 315 ]
+      }, {
+         "geometry": "L_Fibular_Collateral_Ligament",
+         "range": [ 19461, 462 ]
+      }, {
+         "geometry": "L_Anterior_Cruciate_Ligament",
+         "range": [ 19923, 396 ]
+      }, {
+         "geometry": "L_Medial_Miniscus",
+         "range": [ 20319, 2298 ]
+      }, {
+         "geometry": "L_Medial_Patellar_Ligament",
+         "range": [ 22617, 624 ]
+      }, {
+         "geometry": "L_Lateral_Patellar_Ligament",
+         "range": [ 23241, 552 ]
+      }, {
+         "geometry": "L_Arcuate_Popliteal_Ligament",
+         "range": [ 23793, 672 ]
+      }, {
+         "geometry": "L_Lateral_Miniscus",
+         "range": [ 24465, 2634 ]
+      }, {
+         "geometry": "L_Acetubular_Labrum",
+         "range": [ 27099, 1164 ]
+      }, {
+         "geometry": "L_iliofemoral_Ligament",
+         "range": [ 28263, 948 ]
+      }, {
+         "geometry": "L_ishiofemoral_Ligament",
+         "range": [ 29211, 504 ]
+      }, {
+         "geometry": "L_Pubofemoral_Ligament",
+         "range": [ 29715, 360 ]
+      }, {
+         "geometry": "L_Transverse_Acetabular_Ligament",
+         "range": [ 30075, 336 ]
+      }, {
+         "geometry": "L_Zona_Orbicularis",
+         "range": [ 30411, 4308 ]
+      }, {
+         "geometry": "L_Inguinal_Ligament",
+         "range": [ 34719, 1221 ]
+      } ],
+      "indices": "bin/f_connective/lambert5_indices.utf8",
+      "material": "lambert5",
+      "numIndices": 35940,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/connective_hip_knee.jpg"
+   }, {
+      "attribs": "bin/f_connective/lambert8_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Fibular_Ligament",
+         "range": [ 0, 336 ]
+      }, {
+         "geometry": "R_Knee_Joint_Capsule",
+         "range": [ 336, 5001 ]
+      }, {
+         "geometry": "R_Oblique_Popliteal_Ligament",
+         "range": [ 5337, 2742 ]
+      }, {
+         "geometry": "L_Fibular_Ligament",
+         "range": [ 8079, 336 ]
+      }, {
+         "geometry": "L_Knee_Joint_Capsule",
+         "range": [ 8415, 5001 ]
+      }, {
+         "geometry": "L_Oblique_Popliteal_Ligament",
+         "range": [ 13416, 2742 ]
+      } ],
+      "indices": "bin/f_connective/lambert8_indices.utf8",
+      "material": "lambert8",
+      "numIndices": 16158,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/connective_knee2.jpg"
+   } ]
+}

@@ -1,0 +1,324 @@
+{
+   "draw_groups": [ {
+      "attribs": "bin/f_organs/Large_Intestine_SG3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Appendix",
+         "range": [ 0, 609 ]
+      }, {
+         "geometry": "Large_Intestine",
+         "range": [ 609, 31899 ]
+      } ],
+      "indices": "bin/f_organs/Large_Intestine_SG3_indices.utf8",
+      "material": "Large_Intestine_SG3",
+      "numIndices": 32508,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_large_intestine.jpg"
+   }, {
+      "attribs": "bin/f_organs/Liver_GallB_SG3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Liver",
+         "range": [ 0, 2766 ]
+      }, {
+         "geometry": "Bileduct",
+         "range": [ 2766, 3681 ]
+      }, {
+         "geometry": "Gallbladder",
+         "range": [ 6447, 654 ]
+      } ],
+      "indices": "bin/f_organs/Liver_GallB_SG3_indices.utf8",
+      "material": "Liver_GallB_SG3",
+      "numIndices": 7101,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_liver_gall.jpg"
+   }, {
+      "attribs": "bin/f_organs/lungs_L_Lung_SG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Bronchial_Tree",
+         "range": [ 0, 45534 ]
+      }, {
+         "geometry": "L_Lung",
+         "range": [ 45534, 5034 ]
+      } ],
+      "indices": "bin/f_organs/lungs_L_Lung_SG1_indices.utf8",
+      "material": "lungs_L_Lung_SG1",
+      "numIndices": 50568,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_lung_l.jpg"
+   }, {
+      "attribs": "bin/f_organs/small_intestine_SG3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Small_Intestine",
+         "range": [ 0, 13356 ]
+      } ],
+      "indices": "bin/f_organs/small_intestine_SG3_indices.utf8",
+      "material": "small_intestine_SG3",
+      "numIndices": 13356,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_small_intestine.jpg"
+   }, {
+      "attribs": "bin/f_organs/blinn13_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Spleen",
+         "range": [ 0, 1794 ]
+      } ],
+      "indices": "bin/f_organs/blinn13_indices.utf8",
+      "material": "blinn13",
+      "numIndices": 1794,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_spleen.jpg"
+   }, {
+      "attribs": "bin/f_organs/InnerStomach_SG3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Interior_Stomach",
+         "range": [ 0, 1347 ]
+      } ],
+      "indices": "bin/f_organs/InnerStomach_SG3_indices.utf8",
+      "material": "InnerStomach_SG3",
+      "numIndices": 1347,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_stomach_lining.jpg"
+   }, {
+      "attribs": "bin/f_organs/Stomach_Spleen_GB_SG3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Stomach",
+         "range": [ 0, 1341 ]
+      }, {
+         "geometry": "Pancreas",
+         "range": [ 1341, 1020 ]
+      }, {
+         "geometry": "Esophagus",
+         "range": [ 2361, 888 ]
+      } ],
+      "indices": "bin/f_organs/Stomach_Spleen_GB_SG3_indices.utf8",
+      "material": "Stomach_Spleen_GB_SG3",
+      "numIndices": 3249,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_stomach.jpg"
+   }, {
+      "attribs": "bin/f_organs/Urinary_SG4_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Kidney",
+         "range": [ 0, 1638 ]
+      }, {
+         "geometry": "L_Kidney",
+         "range": [ 1638, 1860 ]
+      }, {
+         "geometry": "L_Adrenal",
+         "range": [ 3498, 798 ]
+      }, {
+         "geometry": "R_Adrenal",
+         "range": [ 4296, 660 ]
+      }, {
+         "geometry": "R_Ureter",
+         "range": [ 4956, 1782 ]
+      }, {
+         "geometry": "L_Ureter",
+         "range": [ 6738, 1749 ]
+      }, {
+         "geometry": "Bladder",
+         "range": [ 8487, 1146 ]
+      }, {
+         "geometry": "Eurethra_Bladder_Interior",
+         "range": [ 9633, 1722 ]
+      } ],
+      "indices": "bin/f_organs/Urinary_SG4_indices.utf8",
+      "material": "Urinary_SG4",
+      "numIndices": 11355,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_urinary.jpg"
+   }, {
+      "attribs": "bin/f_organs/lungs_R_Lung_SG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Lung",
+         "range": [ 0, 3570 ]
+      } ],
+      "indices": "bin/f_organs/lungs_R_Lung_SG1_indices.utf8",
+      "material": "lungs_R_Lung_SG1",
+      "numIndices": 3570,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_lung_r.jpg"
+   }, {
+      "attribs": "bin/f_organs/lungs_pleuraR_SG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Pleura",
+         "range": [ 0, 3306 ]
+      } ],
+      "indices": "bin/f_organs/lungs_pleuraR_SG1_indices.utf8",
+      "material": "lungs_pleuraR_SG1",
+      "numIndices": 3306,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_pleura_R.jpg"
+   }, {
+      "attribs": "bin/f_organs/lungs_pleuraL_SG1_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "L_Pleura",
+         "range": [ 0, 3180 ]
+      } ],
+      "indices": "bin/f_organs/lungs_pleuraL_SG1_indices.utf8",
+      "material": "lungs_pleuraL_SG1",
+      "numIndices": 3180,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_pleura_L.jpg"
+   }, {
+      "attribs": "bin/f_organs/Upper_Throat_SG3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Thyroid_Gland",
+         "range": [ 0, 1002 ]
+      }, {
+         "geometry": "Mouth_Throat",
+         "range": [ 1002, 11316 ]
+      }, {
+         "geometry": "Pharynx",
+         "range": [ 12318, 1005 ]
+      }, {
+         "geometry": "Thyrohyoid_Membrane",
+         "range": [ 13323, 1518 ]
+      }, {
+         "geometry": "R_Arytenoid_Cartilage",
+         "range": [ 14841, 522 ]
+      }, {
+         "geometry": "Thyroid_Cartilage",
+         "range": [ 15363, 1521 ]
+      }, {
+         "geometry": "Cricothyroid_Ligament",
+         "range": [ 16884, 522 ]
+      }, {
+         "geometry": "Vocal_Ligament",
+         "range": [ 17406, 168 ]
+      }, {
+         "geometry": "R_Corniculate",
+         "range": [ 17574, 420 ]
+      }, {
+         "geometry": "Thyroepiglottic_Ligament",
+         "range": [ 17994, 162 ]
+      }, {
+         "geometry": "Epiglottis",
+         "range": [ 18156, 492 ]
+      }, {
+         "geometry": "Fan_Ligament",
+         "range": [ 18648, 264 ]
+      }, {
+         "geometry": "Cricoid_Cartilage",
+         "range": [ 18912, 1086 ]
+      }, {
+         "geometry": "parathyroid_glands",
+         "range": [ 19998, 432 ]
+      }, {
+         "geometry": "L_Arytenoid_Cartilage",
+         "range": [ 20430, 522 ]
+      }, {
+         "geometry": "L_Corniculate",
+         "range": [ 20952, 420 ]
+      }, {
+         "geometry": "Hyoepiglottic_Ligament",
+         "range": [ 21372, 174 ]
+      }, {
+         "geometry": "Tongue",
+         "range": [ 21546, 912 ]
+      }, {
+         "geometry": "R_Palatine_Tonsil",
+         "range": [ 22458, 282 ]
+      }, {
+         "geometry": "L_Palatine_Tonsil",
+         "range": [ 22740, 282 ]
+      } ],
+      "indices": "bin/f_organs/Upper_Throat_SG3_indices.utf8",
+      "material": "Upper_Throat_SG3",
+      "numIndices": 23022,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_upper_throat.jpg"
+   }, {
+      "attribs": "bin/f_organs/nasopharynx_sinus_SG3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Eustachian_Tube",
+         "range": [ 0, 111 ]
+      }, {
+         "geometry": "Nasopharynx",
+         "range": [ 111, 10896 ]
+      }, {
+         "geometry": "L_Eustachian_Tube",
+         "range": [ 11007, 111 ]
+      }, {
+         "geometry": "R_Maxillary_Sinus",
+         "range": [ 11118, 3444 ]
+      }, {
+         "geometry": "R_Sphenoid_Sinus",
+         "range": [ 14562, 2010 ]
+      }, {
+         "geometry": "R_Ethmoid_Aircells4",
+         "range": [ 16572, 1413 ]
+      }, {
+         "geometry": "R_Ethmoid_Aircells3",
+         "range": [ 17985, 1602 ]
+      }, {
+         "geometry": "R_Ethmoid_Aircells2",
+         "range": [ 19587, 354 ]
+      }, {
+         "geometry": "R_Ethmoid_Aircells1",
+         "range": [ 19941, 732 ]
+      }, {
+         "geometry": "R_Frontal_Sinus",
+         "range": [ 20673, 2562 ]
+      }, {
+         "geometry": "R_Maxillary_Sinus_Duct",
+         "range": [ 23235, 210 ]
+      }, {
+         "geometry": "L_Frontal_Sinus",
+         "range": [ 23445, 2562 ]
+      }, {
+         "geometry": "R_Ethmoid_Aircells5",
+         "range": [ 26007, 354 ]
+      }, {
+         "geometry": "R_Ethmoid_Aircells6",
+         "range": [ 26361, 1602 ]
+      }, {
+         "geometry": "R_Ethmoid_Aircells7",
+         "range": [ 27963, 732 ]
+      }, {
+         "geometry": "R_Ethmoid_Aircells8",
+         "range": [ 28695, 1413 ]
+      }, {
+         "geometry": "L_Sphenoid_Sinus",
+         "range": [ 30108, 2010 ]
+      }, {
+         "geometry": "L_Maxillary_Sinus",
+         "range": [ 32118, 3444 ]
+      }, {
+         "geometry": "L_Maxillary_Sinus_Duct",
+         "range": [ 35562, 210 ]
+      } ],
+      "indices": "bin/f_organs/nasopharynx_sinus_SG3_indices.utf8",
+      "material": "nasopharynx_sinus_SG3",
+      "numIndices": 35772,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_nasopharynx_sinus.jpg"
+   }, {
+      "attribs": "bin/f_organs/Female_Repro_SG4_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Uterus",
+         "range": [ 0, 9060 ]
+      }, {
+         "geometry": "Vagina",
+         "range": [ 9060, 2640 ]
+      } ],
+      "indices": "bin/f_organs/Female_Repro_SG4_indices.utf8",
+      "material": "Female_Repro_SG4",
+      "numIndices": 11700,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/organs_f_repro.jpg"
+   } ]
+}

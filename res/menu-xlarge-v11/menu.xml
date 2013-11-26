@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/menu_search"
+        android:title="Search"
+        android:showAsAction="ifRoom"
+        android:actionViewClass="android.widget.SearchView" 
+        />
+  <item android:id="@+id/layer_skin"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_skin"
+        android:title="Skin" />
+  <item android:id="@+id/layer_muscle"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_muscles"
+        android:title="Muscles" />
+  <item android:id="@+id/layer_skeleton"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_skeleton"
+        android:title="Bones" />
+  <item android:id="@+id/layer_organs"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_organs"
+        android:title="Organs" />
+  <item android:id="@+id/layer_circulatory"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_heart"
+        android:title="Vessels" />
+  <item android:id="@+id/layer_nervous"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu_nervous"
+        android:title="Nerves" />
+</menu>

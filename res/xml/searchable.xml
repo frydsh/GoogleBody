@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- android:searchMode is required to get suggestions in landscape mode, see
+     http://stackoverflow.com/questions/5867021/show-search-suggestions-while-typing-in-landscape-mode
+     -->
+<!-- Adding flagNoExtractUi to android:imeOptoins makes the dialog look nicer
+     in landscape, but it's inconsistent with Maps, Quicksearchbox, and Browser.
+     -->
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/app_name"
+    android:hint="@string/search_hint"
+    android:searchSuggestAuthority="com.google.android.apps.body.bodysearchprovider"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:inputType="text"
+
+    android:searchMode="queryRewriteFromText"
+    android:imeOptions="actionSearch"
+    >
+</searchable>

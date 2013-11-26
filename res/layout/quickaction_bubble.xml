@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:paddingTop="18dip"
+    android:paddingBottom="19dip"
+    android:paddingLeft="5dip"
+    android:paddingRight="5dip"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+
+        <ImageButton android:id="@+id/btn_skin_layer"
+            android:src="@drawable/ic_menu_skin"
+            style="@style/QuickactionButton" 
+            />
+        <View style="@style/Divider"/>
+        <ImageButton
+            android:id="@+id/btn_muscle_layer"
+            android:src="@drawable/ic_menu_muscles"
+            style="@style/QuickactionButton" 
+            />
+        <View style="@style/Divider"/>
+        <ImageButton
+            android:id="@+id/btn_skeleton_layer"
+            android:src="@drawable/ic_menu_skeleton"
+            style="@style/QuickactionButton" 
+            />
+        <View style="@style/Divider"/>
+        <ImageButton
+            android:id="@+id/btn_organs_layer"
+            android:src="@drawable/ic_menu_organs"
+            style="@style/QuickactionButton" 
+            />
+        <View style="@style/Divider"/>
+        <ImageButton
+            android:id="@+id/btn_circulatory_layer"
+            android:src="@drawable/ic_menu_heart"
+            style="@style/QuickactionButton" 
+            />
+        <View style="@style/Divider"/>
+        <ImageButton
+            android:id="@+id/btn_nervous_layer"
+            android:src="@drawable/ic_menu_nervous"
+            style="@style/QuickactionButton" 
+            />
+
+</LinearLayout>

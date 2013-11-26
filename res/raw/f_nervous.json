@@ -1,0 +1,789 @@
+{
+   "draw_groups": [ {
+      "attribs": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn1_attribs.utf8",
+      "diffuse_color": [ 0.6611520051956177, 0.5445513129234314, 0.16462689638137817 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "L_Lateral_Antebrachial_Cutaneous_Nerve",
+         "range": [ 0, 3270 ]
+      }, {
+         "geometry": "L_Common_Palmar_Digital_Branches_Median_Nerve",
+         "range": [ 3270, 4227 ]
+      }, {
+         "geometry": "L_Proper_Palmar_Digital_Branches_Median_Nerve",
+         "range": [ 7497, 3426 ]
+      }, {
+         "geometry": "L_Superficial_Branch_Radial_Nerve",
+         "range": [ 10923, 3504 ]
+      }, {
+         "geometry": "L_Deep_Branch_Radial_Nerve",
+         "range": [ 14427, 1461 ]
+      }, {
+         "geometry": "L_Dorsal_Digital_Branches_Radial_Nerve",
+         "range": [ 15888, 5412 ]
+      }, {
+         "geometry": "L_Palmar_Branch_Ulnar_Nerve",
+         "range": [ 21300, 3513 ]
+      }, {
+         "geometry": "L_Posterior_Brachial_Cutaneous_Nerve",
+         "range": [ 24813, 2259 ]
+      }, {
+         "geometry": "L_Axillary_Nerve",
+         "range": [ 27072, 2217 ]
+      }, {
+         "geometry": "L_Medial_Brachial_Cutaneous_Nerve",
+         "range": [ 29289, 2226 ]
+      }, {
+         "geometry": "L_Median_Nerve",
+         "range": [ 31515, 4800 ]
+      }, {
+         "geometry": "L_Medial_Antebrachial_Cutaneous_Nerve",
+         "range": [ 36315, 6150 ]
+      }, {
+         "geometry": "L_Suprascapular_Nerve",
+         "range": [ 42465, 3126 ]
+      }, {
+         "geometry": "L_Radial_Nerve",
+         "range": [ 45591, 17019 ]
+      }, {
+         "geometry": "L_Musculocutaneous_Nerve",
+         "range": [ 62610, 30774 ]
+      }, {
+         "geometry": "L_Ulnar_Nerve",
+         "range": [ 93384, 20052 ]
+      }, {
+         "geometry": "R_Ulnar_Nerve",
+         "range": [ 113436, 20052 ]
+      }, {
+         "geometry": "R_Posterior_Brachial_Cutaneous_Nerve",
+         "range": [ 133488, 2259 ]
+      }, {
+         "geometry": "R_Axillary_Nerve",
+         "range": [ 135747, 2217 ]
+      }, {
+         "geometry": "R_Medial_Brachial_Cutaneous_Nerve",
+         "range": [ 137964, 2226 ]
+      }, {
+         "geometry": "R_Suprascapular_Nerve",
+         "range": [ 140190, 3126 ]
+      }, {
+         "geometry": "R_Musculocutaneous_Nerve",
+         "range": [ 143316, 30768 ]
+      }, {
+         "geometry": "R_Lateral_Antebrachial_Cutaneous_Nerve",
+         "range": [ 174084, 3270 ]
+      }, {
+         "geometry": "R_Common_Palmar_Digital_Branches_Median_Nerve",
+         "range": [ 177354, 4227 ]
+      }, {
+         "geometry": "R_Proper_Palmar_Digital_Branches_Median_Nerve",
+         "range": [ 181581, 3426 ]
+      }, {
+         "geometry": "R_Superficial_Branch_Radial_Nerve",
+         "range": [ 185007, 3504 ]
+      }, {
+         "geometry": "R_Deep_Branch_Radial_Nerve",
+         "range": [ 188511, 1461 ]
+      }, {
+         "geometry": "R_Dorsal_Digital_Branches_Radial_Nerve",
+         "range": [ 189972, 5412 ]
+      }, {
+         "geometry": "R_Palmar_Branch_Ulnar_Nerve",
+         "range": [ 195384, 3513 ]
+      }, {
+         "geometry": "R_Median_Nerve",
+         "range": [ 198897, 4800 ]
+      }, {
+         "geometry": "R_Medial_Antebrachial_Cutaneous_Nerve",
+         "range": [ 203697, 6150 ]
+      }, {
+         "geometry": "R_Radial_Nerve",
+         "range": [ 209847, 17019 ]
+      }, {
+         "geometry": "L_Posterior_Femoral_Cutanious_Nerve",
+         "range": [ 226866, 1092 ]
+      }, {
+         "geometry": "R_Lateral_Sural_Cutaneous_Nerve",
+         "range": [ 227958, 792 ]
+      }, {
+         "geometry": "R_Sural_Communicating_Branch",
+         "range": [ 228750, 264 ]
+      }, {
+         "geometry": "R_Common_peroneal_Nerve",
+         "range": [ 229014, 48 ]
+      }, {
+         "geometry": "R_Sciatic_Nerve",
+         "range": [ 229062, 2160 ]
+      }, {
+         "geometry": "L_Lateral_Sural_Cutaneous_Nerve",
+         "range": [ 231222, 792 ]
+      }, {
+         "geometry": "L_Sural_Communicating_Branch",
+         "range": [ 232014, 264 ]
+      }, {
+         "geometry": "L_Common_peroneal_Nerve",
+         "range": [ 232278, 48 ]
+      }, {
+         "geometry": "L_Sciatic_Nerve",
+         "range": [ 232326, 2160 ]
+      }, {
+         "geometry": "R_Medial_Sural_Nerve",
+         "range": [ 234486, 4212 ]
+      }, {
+         "geometry": "R_Intermediate_Dorsal_Cutaneous_Nerve",
+         "range": [ 238698, 2430 ]
+      }, {
+         "geometry": "R_Plantar_Nerve",
+         "range": [ 241128, 6012 ]
+      }, {
+         "geometry": "R_Tibial_Nerve",
+         "range": [ 247140, 3300 ]
+      }, {
+         "geometry": "R_Deep_Peroneal_Nerve",
+         "range": [ 250440, 5160 ]
+      }, {
+         "geometry": "R_Superficial_Peroneal_Nerve",
+         "range": [ 255600, 4344 ]
+      }, {
+         "geometry": "L_Medial_Sural_Nerve",
+         "range": [ 259944, 4212 ]
+      }, {
+         "geometry": "L_Intermediate_Dorsal_Cutaneous_Nerve",
+         "range": [ 264156, 2430 ]
+      }, {
+         "geometry": "L_Plantar_Nerve",
+         "range": [ 266586, 6012 ]
+      }, {
+         "geometry": "L_Tibial_Nerve",
+         "range": [ 272598, 3300 ]
+      }, {
+         "geometry": "L_Deep_Peroneal_Nerve",
+         "range": [ 275898, 5160 ]
+      }, {
+         "geometry": "L_Superficial_Peroneal_Nerve",
+         "range": [ 281058, 4344 ]
+      }, {
+         "geometry": "R_Posterior_Femoral_Cutanious_Nerve",
+         "range": [ 285402, 1092 ]
+      }, {
+         "geometry": "R_Obturator_Nerve",
+         "range": [ 286494, 4512 ]
+      }, {
+         "geometry": "R_Saphenous_Nerve",
+         "range": [ 291006, 5478 ]
+      }, {
+         "geometry": "R_Femoral_Nerve",
+         "range": [ 296484, 5727 ]
+      }, {
+         "geometry": "L_Obturator_Nerve",
+         "range": [ 302211, 4512 ]
+      }, {
+         "geometry": "L_Saphenous_Nerve",
+         "range": [ 306723, 5478 ]
+      }, {
+         "geometry": "L_Lateral_Femoral_Cutaneous_Nerve",
+         "range": [ 312201, 4608 ]
+      }, {
+         "geometry": "L_Femoral_Nerve",
+         "range": [ 316809, 5727 ]
+      }, {
+         "geometry": "R_Lateral_Femoral_Cutaneous_Nerve",
+         "range": [ 322536, 4608 ]
+      }, {
+         "geometry": "Cauda_Equina_Base",
+         "range": [ 327144, 5616 ]
+      }, {
+         "geometry": "R_Vagus_Nerve",
+         "range": [ 332760, 12582 ]
+      }, {
+         "geometry": "L_Vagus_Nerve",
+         "range": [ 345342, 10974 ]
+      }, {
+         "geometry": "R_Inferior_Gluteal_Nerve",
+         "range": [ 356316, 2976 ]
+      }, {
+         "geometry": "R_Superior_Gluteal_Nerve",
+         "range": [ 359292, 3912 ]
+      }, {
+         "geometry": "R_iliohypogastric_Nerve",
+         "range": [ 363204, 1254 ]
+      }, {
+         "geometry": "R_Lumbar_Plexus",
+         "range": [ 364458, 5709 ]
+      }, {
+         "geometry": "R_Sacral_Plexus",
+         "range": [ 370167, 5112 ]
+      } ],
+      "indices": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn1_indices.utf8",
+      "material": "M_Nervous_Textured_30Percent_blinn1",
+      "numIndices": 375279,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   }, {
+      "attribs": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn1_p1_attribs.utf8",
+      "diffuse_color": [ 0.6611520051956177, 0.5445513129234314, 0.16462689638137817 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Intercostal_Nerve01",
+         "range": [ 0, 14778 ]
+      }, {
+         "geometry": "R_Phrenic_Nerve",
+         "range": [ 14778, 1800 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve12",
+         "range": [ 16578, 12594 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve11",
+         "range": [ 29172, 12930 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve10",
+         "range": [ 42102, 14760 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve08",
+         "range": [ 56862, 15678 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve07",
+         "range": [ 72540, 15714 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve06",
+         "range": [ 88254, 15054 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve05",
+         "range": [ 103308, 15642 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve04",
+         "range": [ 118950, 15024 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve03",
+         "range": [ 133974, 15894 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve02",
+         "range": [ 149868, 15726 ]
+      }, {
+         "geometry": "R_Intercostal_Nerve09",
+         "range": [ 165594, 16653 ]
+      }, {
+         "geometry": "R_ilioinguinal_Nerve",
+         "range": [ 182247, 1734 ]
+      }, {
+         "geometry": "R_Genitofemoral_Nerve",
+         "range": [ 183981, 2628 ]
+      }, {
+         "geometry": "R_Pudendal_Nerve",
+         "range": [ 186609, 3276 ]
+      }, {
+         "geometry": "L_Inferior_Gluteal_Nerve",
+         "range": [ 189885, 2976 ]
+      }, {
+         "geometry": "L_Superior_Gluteal_Nerve",
+         "range": [ 192861, 3912 ]
+      }, {
+         "geometry": "L_iliohypogastric_Nerve",
+         "range": [ 196773, 1254 ]
+      }, {
+         "geometry": "L_Lumbar_Plexus",
+         "range": [ 198027, 5709 ]
+      }, {
+         "geometry": "L_Sacral_Plexus",
+         "range": [ 203736, 5112 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve01",
+         "range": [ 208848, 14802 ]
+      }, {
+         "geometry": "L_Phrenic_Nerve",
+         "range": [ 223650, 1800 ]
+      }, {
+         "geometry": "L_Sympathetic_Nerves",
+         "range": [ 225450, 17010 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve12",
+         "range": [ 242460, 12594 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve11",
+         "range": [ 255054, 12930 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve10",
+         "range": [ 267984, 14760 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve08",
+         "range": [ 282744, 15678 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve07",
+         "range": [ 298422, 15714 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve06",
+         "range": [ 314136, 15054 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve05",
+         "range": [ 329190, 15642 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve04",
+         "range": [ 344832, 15024 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve03",
+         "range": [ 359856, 15894 ]
+      } ],
+      "indices": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn1_p1_indices.utf8",
+      "material": "M_Nervous_Textured_30Percent_blinn1_p1",
+      "numIndices": 375750,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   }, {
+      "attribs": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn4_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "L_Cerebrum",
+         "range": [ 0, 31767 ]
+      }, {
+         "geometry": "L_Trigeminal_Nerve",
+         "range": [ 31767, 522 ]
+      }, {
+         "geometry": "L_Cuneate",
+         "range": [ 32289, 135 ]
+      }, {
+         "geometry": "L_Gracile_Tubercle",
+         "range": [ 32424, 114 ]
+      }, {
+         "geometry": "L_Geniculate",
+         "range": [ 32538, 390 ]
+      }, {
+         "geometry": "L_Medulla_Oblongata",
+         "range": [ 32928, 183 ]
+      }, {
+         "geometry": "L_Olive",
+         "range": [ 33111, 147 ]
+      }, {
+         "geometry": "L_Pyramid",
+         "range": [ 33258, 144 ]
+      }, {
+         "geometry": "L_Superior_Colliculus",
+         "range": [ 33402, 222 ]
+      }, {
+         "geometry": "L_4th_Ventricle_Wall",
+         "range": [ 33624, 387 ]
+      }, {
+         "geometry": "L_Inferior_Colliculus",
+         "range": [ 34011, 201 ]
+      }, {
+         "geometry": "L_Mammillary_Body",
+         "range": [ 34212, 168 ]
+      }, {
+         "geometry": "Pons",
+         "range": [ 34380, 1284 ]
+      }, {
+         "geometry": "Cerebral_Peduncle",
+         "range": [ 35664, 1614 ]
+      }, {
+         "geometry": "Tuber_Cinereum",
+         "range": [ 37278, 204 ]
+      }, {
+         "geometry": "Pineal_Body",
+         "range": [ 37482, 180 ]
+      }, {
+         "geometry": "Optic_Tract",
+         "range": [ 37662, 480 ]
+      }, {
+         "geometry": "Optic_Chiasm",
+         "range": [ 38142, 672 ]
+      }, {
+         "geometry": "Pituitary",
+         "range": [ 38814, 684 ]
+      }, {
+         "geometry": "Thalamus",
+         "range": [ 39498, 2376 ]
+      } ],
+      "indices": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn4_indices.utf8",
+      "material": "M_Nervous_Textured_30Percent_blinn4",
+      "numIndices": 41874,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/brain_cerebrum_L.jpg"
+   }, {
+      "attribs": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn5_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "R_Cerebrum",
+         "range": [ 0, 31854 ]
+      }, {
+         "geometry": "R_Trigeminal_Nerve",
+         "range": [ 31854, 522 ]
+      }, {
+         "geometry": "R_Cuneate",
+         "range": [ 32376, 135 ]
+      }, {
+         "geometry": "R_Gracile_Tubercle",
+         "range": [ 32511, 114 ]
+      }, {
+         "geometry": "R_Geniculate",
+         "range": [ 32625, 390 ]
+      }, {
+         "geometry": "R_Medulla_Oblongata",
+         "range": [ 33015, 183 ]
+      }, {
+         "geometry": "R_Olive",
+         "range": [ 33198, 147 ]
+      }, {
+         "geometry": "R_Pyramid",
+         "range": [ 33345, 144 ]
+      }, {
+         "geometry": "R_Superior_Colliculus",
+         "range": [ 33489, 222 ]
+      }, {
+         "geometry": "R_4th_Ventricle_Wall",
+         "range": [ 33711, 387 ]
+      }, {
+         "geometry": "R_Inferior_Colliculus",
+         "range": [ 34098, 201 ]
+      }, {
+         "geometry": "R_Mammillary_Body",
+         "range": [ 34299, 168 ]
+      } ],
+      "indices": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn5_indices.utf8",
+      "material": "M_Nervous_Textured_30Percent_blinn5",
+      "numIndices": 34467,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/brain_cerebrum_R.jpg"
+   }, {
+      "attribs": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn6_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Cerebral_Aquaduct",
+         "range": [ 0, 330 ]
+      }, {
+         "geometry": "Fourth_Ventricle",
+         "range": [ 330, 744 ]
+      }, {
+         "geometry": "Third_Ventricle",
+         "range": [ 1074, 1926 ]
+      }, {
+         "geometry": "Fornix_Commissure",
+         "range": [ 3000, 264 ]
+      }, {
+         "geometry": "R_Hypothalamus",
+         "range": [ 3264, 816 ]
+      }, {
+         "geometry": "R_Subthalmic_Nucleus",
+         "range": [ 4080, 456 ]
+      }, {
+         "geometry": "R_Substantia_Nigra",
+         "range": [ 4536, 486 ]
+      }, {
+         "geometry": "R_Lateral_Globus_Pallidus",
+         "range": [ 5022, 714 ]
+      }, {
+         "geometry": "R_Medial_Globus_Pallidus",
+         "range": [ 5736, 486 ]
+      }, {
+         "geometry": "R_Thalamus",
+         "range": [ 6222, 1428 ]
+      }, {
+         "geometry": "R_Caudate_Nucleus",
+         "range": [ 7650, 2826 ]
+      }, {
+         "geometry": "R_Putamen",
+         "range": [ 10476, 1122 ]
+      }, {
+         "geometry": "R_Fornix_Body",
+         "range": [ 11598, 228 ]
+      }, {
+         "geometry": "R_Mamillary_Body",
+         "range": [ 11826, 180 ]
+      }, {
+         "geometry": "R_Amygdaloid_Body",
+         "range": [ 12006, 312 ]
+      }, {
+         "geometry": "R_Hippocampus",
+         "range": [ 12318, 612 ]
+      }, {
+         "geometry": "R_Fornix_Columns",
+         "range": [ 12930, 186 ]
+      }, {
+         "geometry": "R_Fornix_Crura",
+         "range": [ 13116, 300 ]
+      }, {
+         "geometry": "R_Interventricular_Foramen",
+         "range": [ 13416, 126 ]
+      }, {
+         "geometry": "R_Lateral_Ventricle",
+         "range": [ 13542, 2148 ]
+      }, {
+         "geometry": "L_Hypothalamus",
+         "range": [ 15690, 816 ]
+      }, {
+         "geometry": "L_Subthalmic_Nucleus",
+         "range": [ 16506, 456 ]
+      }, {
+         "geometry": "L_Substantia_Nigra",
+         "range": [ 16962, 486 ]
+      }, {
+         "geometry": "L_Lateral_Globus_Pallidus",
+         "range": [ 17448, 714 ]
+      }, {
+         "geometry": "L_Medial_Globus_Pallidus",
+         "range": [ 18162, 486 ]
+      }, {
+         "geometry": "L_Thalamus",
+         "range": [ 18648, 1428 ]
+      }, {
+         "geometry": "L_Caudate_Nucleus",
+         "range": [ 20076, 2826 ]
+      }, {
+         "geometry": "L_Putamen",
+         "range": [ 22902, 1122 ]
+      }, {
+         "geometry": "L_Fornix_Body",
+         "range": [ 24024, 228 ]
+      }, {
+         "geometry": "L_Mamillary_Body",
+         "range": [ 24252, 180 ]
+      }, {
+         "geometry": "L_Amygdaloid_Body",
+         "range": [ 24432, 312 ]
+      }, {
+         "geometry": "L_Hippocampus",
+         "range": [ 24744, 612 ]
+      }, {
+         "geometry": "L_Fornix_Columns",
+         "range": [ 25356, 186 ]
+      }, {
+         "geometry": "L_Fornix_Crura",
+         "range": [ 25542, 300 ]
+      }, {
+         "geometry": "L_Interventricular_Foramen",
+         "range": [ 25842, 126 ]
+      }, {
+         "geometry": "L_Lateral_Ventricle",
+         "range": [ 25968, 2148 ]
+      } ],
+      "indices": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn6_indices.utf8",
+      "material": "M_Nervous_Textured_30Percent_blinn6",
+      "numIndices": 28116,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/brain_interior.jpg"
+   }, {
+      "attribs": "bin/f_nervous/phong1_attribs.utf8",
+      "diffuse_color": [ 0.7735999822616577, 0.6807680130004883, 0.6807680130004883 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Spinal_Cord_Dura_Matter",
+         "range": [ 0, 28944 ]
+      } ],
+      "indices": "bin/f_nervous/phong1_indices.utf8",
+      "material": "phong1",
+      "numIndices": 28944,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   }, {
+      "attribs": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn1_p2_attribs.utf8",
+      "diffuse_color": [ 0.6611520051956177, 0.5445513129234314, 0.16462689638137817 ],
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "L_Intercostal_Nerve02",
+         "range": [ 0, 15726 ]
+      }, {
+         "geometry": "L_Intercostal_Nerve09",
+         "range": [ 15726, 16653 ]
+      }, {
+         "geometry": "L_ilioinguinal_Nerve",
+         "range": [ 32379, 1734 ]
+      }, {
+         "geometry": "L_Genitofemoral_Nerve",
+         "range": [ 34113, 2628 ]
+      }, {
+         "geometry": "L_Pudendal_Nerve",
+         "range": [ 36741, 3276 ]
+      }, {
+         "geometry": "R_Sympathetic_Nerves",
+         "range": [ 40017, 17010 ]
+      }, {
+         "geometry": "R_Accessory_Nerve",
+         "range": [ 57027, 3150 ]
+      }, {
+         "geometry": "L_Accessory_Nerve",
+         "range": [ 60177, 3150 ]
+      }, {
+         "geometry": "Spinal_Cord",
+         "range": [ 63327, 3162 ]
+      }, {
+         "geometry": "L_Glossopharyngeal_Nerve",
+         "range": [ 66489, 1374 ]
+      }, {
+         "geometry": "L_Hypoglossal_Nerve",
+         "range": [ 67863, 4206 ]
+      }, {
+         "geometry": "L_Facial_Nerve",
+         "range": [ 72069, 14826 ]
+      }, {
+         "geometry": "L_Vestibulocochlear_Nerve",
+         "range": [ 86895, 696 ]
+      }, {
+         "geometry": "L_Frontal_Nerve",
+         "range": [ 87591, 1392 ]
+      }, {
+         "geometry": "L_Maxillary_Nerve",
+         "range": [ 88983, 2208 ]
+      }, {
+         "geometry": "L_Trigeminal_Nerve",
+         "range": [ 91191, 1284 ]
+      }, {
+         "geometry": "L_Auriculotemporal_Nerve",
+         "range": [ 92475, 2844 ]
+      }, {
+         "geometry": "L_Lingual_Nerve",
+         "range": [ 95319, 2574 ]
+      }, {
+         "geometry": "L_Oculomotor_Nerve",
+         "range": [ 97893, 1170 ]
+      }, {
+         "geometry": "L_Abducens_Nerve",
+         "range": [ 99063, 828 ]
+      }, {
+         "geometry": "L_Alveolar_Nerve",
+         "range": [ 99891, 2358 ]
+      }, {
+         "geometry": "L_C4_Nerve",
+         "range": [ 102249, 31350 ]
+      }, {
+         "geometry": "L_C3_Nerve",
+         "range": [ 133599, 14916 ]
+      }, {
+         "geometry": "L_C2_Nerve",
+         "range": [ 148515, 14898 ]
+      }, {
+         "geometry": "Olfactory_Nerve_Branches",
+         "range": [ 163413, 1632 ]
+      }, {
+         "geometry": "L_B_Abducens_Nerve",
+         "range": [ 165045, 102 ]
+      }, {
+         "geometry": "L_B_Accessory_Nerve",
+         "range": [ 165147, 294 ]
+      }, {
+         "geometry": "L_B_Facial_Nerve",
+         "range": [ 165441, 78 ]
+      }, {
+         "geometry": "L_B_Glossopharyngeal_Nerve",
+         "range": [ 165519, 342 ]
+      }, {
+         "geometry": "L_B_Hypoglossal_Nerve",
+         "range": [ 165861, 438 ]
+      }, {
+         "geometry": "L_B_Trochlear_Nerve",
+         "range": [ 166299, 948 ]
+      }, {
+         "geometry": "L_B_Vagus_Nerve",
+         "range": [ 167247, 486 ]
+      }, {
+         "geometry": "L_B_Vestibulocochlear_Nerve",
+         "range": [ 167733, 222 ]
+      }, {
+         "geometry": "L_Olfactory_Nerve",
+         "range": [ 167955, 291 ]
+      }, {
+         "geometry": "L_Optic_Nerve",
+         "range": [ 168246, 888 ]
+      }, {
+         "geometry": "R_Optic_Nerve",
+         "range": [ 169134, 888 ]
+      }, {
+         "geometry": "R_Olfactory_Nerve",
+         "range": [ 170022, 291 ]
+      }, {
+         "geometry": "R_B_Vestibulocochlear_Nerve",
+         "range": [ 170313, 222 ]
+      }, {
+         "geometry": "R_B_Vagus_Nerve",
+         "range": [ 170535, 486 ]
+      }, {
+         "geometry": "R_B_Trochlear_Nerve",
+         "range": [ 171021, 948 ]
+      }, {
+         "geometry": "R_B_Hypoglossal_Nerve",
+         "range": [ 171969, 438 ]
+      }, {
+         "geometry": "R_B_Glossopharyngeal_Nerve",
+         "range": [ 172407, 342 ]
+      }, {
+         "geometry": "R_B_Facial_Nerve",
+         "range": [ 172749, 78 ]
+      }, {
+         "geometry": "R_B_Accessory_Nerve",
+         "range": [ 172827, 294 ]
+      }, {
+         "geometry": "R_B_Abducens_Nerve",
+         "range": [ 173121, 102 ]
+      }, {
+         "geometry": "Olfactory_Nerve_Branches1",
+         "range": [ 173223, 1632 ]
+      }, {
+         "geometry": "R_C2_Nerve",
+         "range": [ 174855, 14898 ]
+      }, {
+         "geometry": "R_C3_Nerve",
+         "range": [ 189753, 14916 ]
+      }, {
+         "geometry": "R_C4_Nerve",
+         "range": [ 204669, 31350 ]
+      }, {
+         "geometry": "R_Alveolar_Nerve",
+         "range": [ 236019, 2358 ]
+      }, {
+         "geometry": "R_Abducens_Nerve",
+         "range": [ 238377, 828 ]
+      }, {
+         "geometry": "R_Oculomotor_Nerve",
+         "range": [ 239205, 1170 ]
+      }, {
+         "geometry": "R_Lingual_Nerve",
+         "range": [ 240375, 2574 ]
+      }, {
+         "geometry": "R_Auriculotemporal_Nerve",
+         "range": [ 242949, 2844 ]
+      }, {
+         "geometry": "R_Trigeminal_Nerve",
+         "range": [ 245793, 1284 ]
+      }, {
+         "geometry": "R_Maxillary_Nerve",
+         "range": [ 247077, 2208 ]
+      }, {
+         "geometry": "R_Frontal_Nerve",
+         "range": [ 249285, 1392 ]
+      }, {
+         "geometry": "R_Vestibulocochlear_Nerve",
+         "range": [ 250677, 696 ]
+      }, {
+         "geometry": "R_Facial_Nerve",
+         "range": [ 251373, 14826 ]
+      }, {
+         "geometry": "R_Hypoglossal_Nerve",
+         "range": [ 266199, 4206 ]
+      }, {
+         "geometry": "R_Glossopharyngeal_Nerve",
+         "range": [ 270405, 1374 ]
+      } ],
+      "indices": "bin/f_nervous/M_Nervous_Textured_30Percent_blinn1_p2_indices.utf8",
+      "material": "M_Nervous_Textured_30Percent_blinn1_p2",
+      "numIndices": 271779,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ]
+   }, {
+      "attribs": "bin/f_nervous/blinn7_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Cerebellum",
+         "range": [ 0, 13572 ]
+      } ],
+      "indices": "bin/f_nervous/blinn7_indices.utf8",
+      "material": "blinn7",
+      "numIndices": 13572,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/brain_cerebellum.jpg"
+   }, {
+      "attribs": "bin/f_nervous/Dura_Spine3_attribs.utf8",
+      "dimensions": [ 3, 3, 2 ],
+      "draws": [ {
+         "geometry": "Dura_Mater_Outer",
+         "range": [ 0, 30000 ]
+      } ],
+      "indices": "bin/f_nervous/Dura_Spine3_indices.utf8",
+      "material": "Dura_Spine3",
+      "numIndices": 30000,
+      "semantics": [ "POSITION", "NORMAL", "TEXCOORD" ],
+      "texture": "textures/brain_dura_outer.jpg"
+   }]
+}
